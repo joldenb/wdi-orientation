@@ -36,17 +36,21 @@ Value | Learning  					 | Agreement
 4     | I think I can teach this                        	 | Not the best idea, but close
 5     | I can teach this 	 | That was my idea!
 
+<!--
 [comment]: <> (Note that a lot of the time a good answer is 3 so don't be afraid to use the lower end of the values.)  
 [comment]: <> (An example of using fo5 for agreement is take break or finish the next bit of content.)
+-->
 
 Another tool, we'll be using is the "Aha Board". This board is located _____. The way to use the board is whenever you 
 suddenly get something, whenever you have that Aha or light bulb moment please get up an put the topic on this board. 
 It can be anything in course even if its not related to current topic and might have been something we covered a few 
 weeks ago.
 
+<!--
 [comment]: <> (An example of something completely unrelated or tangentially related is that I understood the proprietary JS framework at a company only after I studied another framework called EmberJS)
 
 [cfu]: <> (Fo5 CFUs)
+-->
 
 ## Schedule 
 
@@ -69,9 +73,11 @@ We'll have a detailed schedule up for the next week up by the end of the Friday 
 available on [GitHub](https://github.com/den-wdi-1/schedule). We'll fill in the 
 links for the specifc lesson plans at the beginning of the day. 
 
+<!--
 [comment]: <> (We're not putting the lesson plans up because we're going to be making small or larger tweaks as we go through the course. For example if we're coming back on working on something that caused some confusion the first time we looked at, we're going to include some more review before the new material and we don't want to throw anyone off who looked at the material early.)
 
 [cfu]: <> (Fo5 comfort agree with schedule.)
+-->
 
 ## Slack
 
@@ -120,7 +126,9 @@ exercise.
 **Family/Free time** The course moves fast and it will take a lot of time but don't feel bad if you take time for family
 or just take a break. You'll find you can make more progress when you come back.
 
+<!--
 [comment]: <> (These things are important and if you can work through a good balance of the three first assessments and staying focused on the coursework, you'll make more progress than just trying to push through trying to get all the coursework done. Also help with your other developers in recognizing when they might need to devote more time to the first three assessments)
+-->
 
 **Initial 1-1** will take place the second week of the course and are required. These meetings are to help the 
 consultants to understand any early challenges, look at your goals, and help make sure the class is a great experience.  
