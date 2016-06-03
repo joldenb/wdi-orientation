@@ -1,23 +1,23 @@
-* Orientation
+# Orientation
 
-*** Why is this important?
+## Why is this important?
 Make sure everyone has a similar development environment and a similar expectations around how the course will run.
 
-*** What are the objectives
+## What are the objectives
 - List some of the common checks for understanding
 - Describe the schedule for a normal day of training 
 - List the ways to communicate with the instructors
 - Understand the assessment structure of the course
 - Create a development environment on your local machine
 
-** Name Game(5 mins)
+## Name Game(5 mins)
 We'll start with some quick name games
 - Say your name and one place other than Denver that you'd like to live
 - Say your name and favorite movie or book
 
 Consultants will try to name everyone.
 
-** Class Expectations(20 mins)
+## Class Expectations(20 mins)
 
 *** Checks for Understanding (CFUs)
 
@@ -48,7 +48,7 @@ weeks ago.
 
 [cfu]: <> (Fo5 CFUs)
 
-*** Schedule 
+## Schedule 
 
 The typical schedule for Monday through Thursday looks like
 #### Daily Schedule Overview
@@ -73,13 +73,13 @@ links for the specifc lesson plans at the beginning of the day.
 
 [cfu]: <> (Fo5 comfort agree with schedule.)
 
-*** Slack
+## Slack
 
 Feel free use ``#wdi-den-1__placeholder`` for any conversations outside of lectures for general content questions or 
 
 There are also general WDI conversations in Slack on 
 
-*** Consultant Communications
+## Consultant Communications
 
 One of the most important things that you'll learn in this course is how to work out how developers learn things. 
 Ultimately this will be a Read Search Ask policy. 
@@ -101,7 +101,7 @@ through Thursday. We might combine 1-1s into a small group if several people app
 Consultants can take direct messages for other non-content related issues. Direct messages are a great way to schedule 
 a 1-1 or talk about any issue that you're not comfortable talking about in public channel.
 
-*** Assessments
+## Assessments
 General thoughts on assessments:
 The best way to program is to program. Try things out. Make mistakes and fix them. One of the great advantages of 
 programming is that you can gain your 10,000 hours of practice in similar groups and self-direction. If you follow some 
@@ -145,7 +145,7 @@ progress in the rubic and help work through any issues.
 
 If you want to run fast run alone, if you want to run long run together. Keynan proverb.
 
-*** WeWork
+## WeWork
 Please use the standard WeWork Wifi password ************
 
 Parking is 
