@@ -109,6 +109,8 @@ of the tips and work flows we go
 
 Also, if the computer does what you want it to do, you've succeeded. The consultants may point out easier 
 
+## Staying Healthy
+
 **Sleep** Getting a reasonable amount of sleep (9 hours if that's what you need) is important and let that help guide 
 you in working through material and getting work done.
 
@@ -124,6 +126,8 @@ or just take a break. You'll find you can make more progress when you come back.
 consultants to understand any early challenges, look at your goals, and help make sure the class is a great experience.  
 Let us know if need to schedule a 1-1 closer to the end of class to meet other commitments but some of these meetings 
 might go until 5:30.
+
+## Work and Feedback
 
 **Homework** will be reviewed by Thomas every night. If you have specific questions around homework we'll have some time
  in the morning, on Slack, or during 1-1's for questions around homework. Finishing the homework is the ideal but we've
@@ -143,12 +147,12 @@ consultants will go through your code and highlight any specific issues that we 
 better code. The consultants will also have a 1-1 with each developer where we go through the rubic and celebrate your 
 progress in the rubic and help work through any issues.
 
-If you want to run fast run alone, if you want to run long run together. Keynan proverb.
+"If you want to run fast run alone, if you want to run long run together." - Keynan proverb.
 
 ## WeWork
 Please use the standard WeWork Wifi password ************
 
-Parking is 
+Parking is SO COOL, WOO HOO PARKING!!
 
 ** Setup your Mac Development Tools(15 mins)
 
