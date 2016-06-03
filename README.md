@@ -29,12 +29,12 @@ agreement
 
 Value | Learning  					 | Agreement
 ----- | -----------------------------| -----  
-0     | Did I walk into wrong class? | Review
-1     |                              | Outcomes
-2     |                              | Lunch
-3     | I think I can do this.   	 | I'm OK with this but I think 
-4     |                         	 | 
-5     | I think I can teach this 	 | Its my idea
+0     | Did I walk into wrong class? | I am offended by this
+1     | I need help                             | I have strong reservations
+2     | I think I need some help                             | I have a few reservations
+3     | I understand  	 | I'm OK with this
+4     | I think I can teach this                        	 | Not the best idea, but close
+5     | I can teach this 	 | That was my idea!
 
 [comment]: <> (Note that a lot of the time a good answer is 3 so don't be afraid to use the lower end of the values.)  
 [comment]: <> (An example of using fo5 for agreement is take break or finish the next bit of content.)
