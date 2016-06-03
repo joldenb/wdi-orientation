@@ -44,9 +44,9 @@ Value | Learning  					 | Agreement
 
 ### A-ha Board
 
-Another tool we'll be using is the **A-ha Board**. This board is located _____WAAHHHHH. To use the board, whenever you 
-suddenly get something, whenever you have that "A-ha" or "light bulb" moment please get up and put the topic on this board. 
-It can be anything in the course even if it's not related to the current topic and might have been something we covered a few weeks ago.
+Another tool we'll be using is the **A-ha Board**. This board is located at the whiteboard in the back of the room. To use the board, whenever you suddenly get something, whenever you have that "A-ha" or "light bulb" moment please get up and put the topic on this board. It can be anything in the course even if it's not related to the current topic and might have been something we covered a few weeks ago.
+
+"It's not at all important to get it right the first time. It's vitally important to get it right the last time." - Dave Thomas (Not the Wendy's Guy)
 
 <!--
 [comment]: <> (An example of something completely unrelated or tangentially related is that I understood the proprietary JS framework at a company only after I studied another framework called EmberJS)
@@ -64,9 +64,9 @@ The typical schedule for the week is below:
 
 Time  | Monday - Thursday  			| Friday
 ----- | ------------------ 			| -----  
-9:15  | Module 1           			| Review
-10:45 | Module 2           			| Outcomes
-12:30 | Lunch              			| Lunch
+9:00  | Module 1           			| Review
+10:30 | Module 2           			| Outcomes
+12:00 | Lunch              			| Lunch
 1:30  | Module 3           			| Review
 3:00  | Module 4           			| Begin Weekend Lab
 4:30  | One-on-ones/Training start 	| Rest
@@ -86,24 +86,25 @@ links for the specifc lesson plans at the beginning of the day.
 
 ## Slack
 
-Feel free use ``#wdi-den-1__placeholder`` FIND CHANNEL NAME for any conversations outside of lectures for general content questions or WOAH PLACEHOLDER WOAH
+Feel free to use ``#wdi-den-june`` for any conversations outside of lectures for general course content questions. For any other discussion not related to the curriculum, you can use ``#wdi-den-random``.
 
-There are also general WDI conversations in Slack on MORE PLACEHOLDER
+There are also general WDI conversations in Slack (not Denver-specific) on ``#wdi-fundamentals`` and ``#wdi-lounge``.
 
 ## Consultant Communications
 
 One of the most important things that you'll learn in this course is how Developers learn things. 
 Ultimately this will be a **Read-Search-Ask (RSA)** policy. 
-1) Read the instructions and/or documentations...
-2) Search using Google, and finally...
-3) Ask someone. 
-When we start out, the Consultants will answer more traditional questions at the start when everyone is NOT SURE WHAT WE WANT TO SAY HERE
+1. Read the instructions and/or documentations...
+2. Search using Google, and finally...
+3. Ask someone. 
 
-Slack has a great feature like Twitter where you can use ``@zebgirouard`` or ``@jpbarela`` in the ``#wdi-den-1`` REPLACE WITH ACTUAL NAME channel, we automatically get notified of that message. Putting content questions in the Slack channel has several benefits:
+As we progress, the Developers will be expected to get more and more independent. Consultants are here to help, and we understand that the beginning of the course will require answers from us and your peers.
+
+Slack has a great feature like Twitter where you can use ``@zebgirouard`` or ``@jpbarela`` in the ``#wdi-den-june`` channel, we automatically get notified of that message. Putting content questions in the Slack channel has several benefits:
 - Other Developers might have the same question(s) and we can help everyone at the same time
 - Other Developers in the class might have worked through the issue and might be able to help before the Consultants can
 answer
-The Consultants will review Slack each night for questions.  If a Developer doesn't feel their questions were fully answered by the next class, please bring it to the attention of the Consultants at the beginning of the class.
+The Consultants will review Slack each night for questions. Note that Consultants will not be available 24-7, but will do their best to answer questions as soon as possible. If a Developer doesn't feel their questions were fully answered by the next class, please bring it to the attention of the Consultants at the beginning of class.
 
 There are also a number of ways to work directly with the Consultants. We take **1:1 appointments** after class Monday 
 through Thursday. We might combine **1:1s** into a small group if several people approach with the same issue.
@@ -111,13 +112,7 @@ through Thursday. We might combine **1:1s** into a small group if several people
 Consultants can take direct messages for other non-content related issues. Direct messages are a great way to schedule 
 a **1:1** or talk about any issue that you're not comfortable talking about in a public channel.
 
-## Assessments
-General thoughts on assessments:
-The best way to program is to program. Try things out. Make mistakes and fix them. One of the great advantages of 
-programming is that you can gain your 10,000 hours of practice in similar groups and self-direction. If you follow some 
-of the tips and work flows we go NOT SURE WHAT GOES HERE
-
-Also, if the computer does what you want it to do, you've succeeded. The Consultants may point out easier  NOT SURE WHAT GOES HERE
+"No one is born knowing how to code." - Various
 
 ## Staying Healthy
 
@@ -131,6 +126,15 @@ Also, if the computer does what you want it to do, you've succeeded. The Consult
 [comment]: <> (These things are important and if you can work through a good balance of the three first assessments and staying focused on the coursework, you'll make more progress than just trying to push through trying to get all the coursework done. Also help with your other Developers in recognizing when they might need to devote more time to the first three assessments)
 -->
 
+## Assessments
+General thoughts on assessments:
+The best way to program is to program. Try things out. Make mistakes and fix them. One of the great advantages of 
+programming is that you can gain your 10,000 hours of practice with constant feedback from the computer itself. The important thing to remember is that this is a safe place to make these mistakes, fix them, and learn from them.
+
+Also, if the computer does what you want it to do, you've succeeded. This can be really confusing, but generally, "No news is good news," with a computer. If you are ever unsure of what's happening "under the hood", use the **Read-Search-Ask** policy. Your peers and the Consultants are here to help.
+
+"If you want to run fast run alone, if you want to run long run together." - Keynan proverb.
+
 ## Work and Feedback
 
 **Initial 1:1s** will take place the second week of the course and are required. These meetings are to help the 
@@ -139,38 +143,50 @@ Let us know if need to schedule a 1:1 closer to the end of class to meet other c
 might go until 5:30pm.
 
 **Homework** will be reviewed by Thomas every night. If you have specific questions around homework we'll have some time
- in the morning, on Slack, or during 1:1s for questions around homework. (WE SHOULD IRON THIS OUT) Finishing the homework is the ideal but we've
- chosen to write the homeworks in a way that will make them a good future reference and sometimes this may be more than 
- you can do. If you're spending four hours on a homework and not making much progress, think about submitting what you 
- have done and moving on to something else.
+ in the morning, on Slack, or during 1:1s for questions around homework. Keep in mind, we've
+ chosen to write the homeworks in a way that will make them a good future reference, and will challenge all students. Sometimes this may be more than you can accomplish in one night. If you're spending several hours on a homework and not making much progress, think about submitting what you have done and moving on to something else.  As mentioned earlier, sleep and well-being is important.
 
-Please submit all of the homeworks. Even if you don't make much progress on a homework please submit the homework as 
-that's important feedback on what you understand and also how we're doing.
+To re-iterate, **submit all of the homeworks**. Even if you don't make much progress on a homework, submit it, as that's important feedback on how we're doing as Consultants and as a class.
 
-**Labs** will not be formally reviewed, but questions that come up after the lab can come through Slack and 1:1s. Labs are similar to homework in the sense that we're writing them to be good references on the topic and sometimes there may be more work than you can do.
+**Labs** will not be formally reviewed, but questions that come up after the lab can come through Slack and 1:1s. Labs are similar to homework in the sense that we're writing them to be good references on the topic, and sometimes there may be more work than you can do.
 
 **Projects** will include a rubric, or a predefined set of standards that will be evaluated. For projects 1-3, the 
 Consultants will go through your code and highlight any specific issues that we see to help you understand how to write 
 better code. The Consultants will also have a 1:1 with each developer where we go through the rubric and celebrate your 
 progress in the rubric and help work through any issues.
 
-"If you want to run fast run alone, if you want to run long run together." - Keynan proverb.
+"You are not your code." - Multiple Quora Users
 
-## WeWork
-Please use the standard WeWork Wifi password ************
+## InstallFest Help
 
-Parking is SO COOL, WOO HOO PARKING!!
+If any Developers need help with the installFest materials they received last week, we are here to help.
 
-** Setup your Mac Development Tools(15 mins)
+** Setup your Mac Development Tools(15 mins) TURN THIS INTO LINKS WOAH
 
 ** Setup your Node Environment(15 mins)
 
 ** Setup your Ruby Environment(15 mins)
 
-** Quotes
+## WeWork
 
-Good code is small code (Not sure if this is necessary for culture talk, maybe better in a lesson?)
+### WiFi
 
-"You are not your code." - Multiple Quora Users
-"It's not at all important to get it right the first time. It's vitally important to get it right the last time." - Dave Thomas (Not the Wendy's Guy)
-"No one is born knowing how to code." - Various
+Please use the WeWork Wifi network. The password is on the whiteboard.
+
+### Parking
+
+Parking is not easy around General Assembly and WeWork. The following options are available:
+- If you are lucky, there is free street parking on Platte Street. Go down 17th Street to Platte, and turn left.
+- The lot on Platte Street across from 17th Street, Commons Park West
+- COME PACK TO THIS WOOOOAAHHH
+
+### Using WeWork Space
+
+- There are a lot of businesses here at WeWork. Please be mindful of your neighbors, their space, and their things.
+- The water, coffee, and tea are free. Drink as much as you want.
+- If you want to use an open conference room, please be aware that others may reserve the room, and please be respectful and leave if they ask.
+- The darts, ping-pong tables, and other communal spaces are also available. Again, just be mindful of your neighbors and share.
+- The food on the Honor Bar is available for purchase. It's not free, but you can use your credit card to purchase things.
+- Similarly, if you see any food on the kitchen/cafe tables, please ask the WeWork staff if you can have some.
+- You can use the fridge in the kitchen/cafe for drinks or food. Please put your name on anything, and the date you put it in. WeWork will clean the fridge every Friday at 3pm. Also, if you see unclaimed food or drink in the fridge, please ask the WeWork staff if you can have some.
+- Unless there is a GA event, doors at WeWork close at 6pm. Developers are welcome to stay until 9pm, but be aware that you will be locked out if you leave.
