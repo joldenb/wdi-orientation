@@ -58,7 +58,7 @@ The Consultant speaking here could put something they recently found out to be #
 
 ## Schedule 
 
-The typical schedule for the week is below:
+The typical [https://github.com/den-wdi-1/schedule/blob/master/README.md](schedule for the week) is below:
 
 #### Daily Schedule Overview
 
@@ -161,32 +161,8 @@ progress in the rubric and help work through any issues.
 
 If any Developers need help with the installFest materials they received last week, we are here to help.
 
-** Setup your Mac Development Tools(15 mins) TURN THIS INTO LINKS WOAH
+** [https://github.com/den-wdi-1/installFest/blob/master/mac-dev-tools.md](Setup your Mac Development Tools)
 
-** Setup your Node Environment(15 mins)
+** [https://github.com/den-wdi-1/installFest/blob/master/express-stack.md](Setup your Node Environment)
 
-** Setup your Ruby Environment(15 mins)
-
-## WeWork
-
-### WiFi
-
-Please use the WeWork Wifi network. The password is on the whiteboard.
-
-### Parking
-
-Parking is not easy around General Assembly and WeWork. The following options are available:
-- If you are lucky, there is free street parking on Platte Street. Go down 17th Street to Platte, and turn left.
-- The lot on Platte Street across from 17th Street, Commons Park West
-- COME PACK TO THIS WOOOOAAHHH
-
-### Using WeWork Space
-
-- There are a lot of businesses here at WeWork. Please be mindful of your neighbors, their space, and their things.
-- The water, coffee, and tea are free. Drink as much as you want.
-- If you want to use an open conference room, please be aware that others may reserve the room, and please be respectful and leave if they ask.
-- The darts, ping-pong tables, and other communal spaces are also available. Again, just be mindful of your neighbors and share.
-- The food on the Honor Bar is available for purchase. It's not free, but you can use your credit card to purchase things.
-- Similarly, if you see any food on the kitchen/cafe tables, please ask the WeWork staff if you can have some.
-- You can use the fridge in the kitchen/cafe for drinks or food. Please put your name on anything, and the date you put it in. WeWork will clean the fridge every Friday at 3pm. Also, if you see unclaimed food or drink in the fridge, please ask the WeWork staff if you can have some.
-- Unless there is a GA event, doors at WeWork close at 6pm. Developers are welcome to stay until 9pm, but be aware that you will be locked out if you leave.
+** [https://github.com/den-wdi-1/installFest/blob/master/ruby-on-rails-stack.md](Setup your Ruby Environment)
