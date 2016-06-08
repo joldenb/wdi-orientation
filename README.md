@@ -27,7 +27,7 @@ Consultants will try to name everyone.
 - Completion of 80% of homework
 - Completion of all 4 projects
 
-**Checks for Understanding (CFUs)**
+### Checks for Understanding (CFUs)
 
 ### Fist-to-Five
 
