@@ -66,7 +66,7 @@ The Consultant speaking here could put something they recently found out to be #
 
 ## Schedule 
 
-The typical [https://github.com/den-wdi-1/schedule/blob/master/README.md](schedule for the week) is below:
+The typical [schedule for the week](https://github.com/den-wdi-1/schedule/blob/master/README.md) is below:
 
 #### Daily Schedule Overview
 
