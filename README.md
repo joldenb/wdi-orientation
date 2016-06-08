@@ -136,7 +136,9 @@ a **1:1** or talk about any issue that you're not comfortable talking about in a
 -->
 
 ## Assessments
-General thoughts on assessments:
+
+###General thoughts on assessments:
+
 The best way to program is to program. Try things out. Make mistakes and fix them. One of the great advantages of 
 programming is that you can gain your 10,000 hours of practice with constant feedback from the computer itself. The important thing to remember is that this is a safe place to make these mistakes, fix them, and learn from them.
 
@@ -153,7 +155,7 @@ might go until 5:30pm.
 
 **Homework** will be reviewed by Thomas every night. If you have specific questions around homework we'll have some time
  in the morning, on Slack, or during 1:1s for questions around homework. Keep in mind, we've
- chosen to write the homeworks in a way that will make them a good future reference, and will challenge all students. Sometimes this may be more than you can accomplish in one night. If you're spending several hours on a homework and not making much progress, think about submitting what you have done and moving on to something else.  As mentioned earlier, sleep and well-being is important.
+ chosen to write the homeworks in a way that will make them a good future reference, and will challenge all students. Sometimes this may be more than you can accomplish in one night. If you're spending several hours on a homework and not making much progress, submit what you have done and move on to something else.  As mentioned earlier, sleep and well-being is important.
 
 To re-iterate, **submit all of the homeworks**. Even if you don't make much progress on a homework, submit it, as that's important feedback on how we're doing as Consultants and as a class.
 
@@ -163,6 +165,8 @@ To re-iterate, **submit all of the homeworks**. Even if you don't make much prog
 Consultants will go through your code and highlight any specific issues that we see to help you understand how to write 
 better code. The Consultants will also have a 1:1 with each developer where we go through the rubric and celebrate your 
 progress in the rubric and help work through any issues.
+
+<!--Mention about Project 4 due at graduation, so handled a little differently. -->
 
 "You are not your code." - Multiple Quora Users
 
