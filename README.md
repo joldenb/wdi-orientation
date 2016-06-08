@@ -52,7 +52,7 @@ Value | Learning  					 | Agreement
 
 ### One Cool Thing
 
-Throughout the first week, we will be asking each Developer to find out one cool thing about one of their fellow developers every day.  There are only two rules to this:
+Throughout the first week, we will be asking each Developer to find out one cool thing about one of their fellow Developers every day.  There are only two rules to this:
 
  - You can't choose the same Developer twice.
  - You can't say the same "cool thing" twice.
