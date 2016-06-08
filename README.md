@@ -19,6 +19,14 @@ Consultants will try to name everyone.
 
 ## Class Expectations (20 mins)
 
+### Graduation Requirements
+
+- We will take attendance at 9:05a and 1:05p every day
+- No more than 4 unexcused absences 
+- 3 tardys = 1 absence
+- Completion of 80% of homework
+- Completion of all 4 projects
+
 **Checks for Understanding (CFUs)**
 
 ### Fist-to-Five
