@@ -101,10 +101,11 @@ There are also general WDI conversations in Slack (not Denver-specific) on ``#wd
 ## Consultant Communications
 
 One of the most important things that you'll learn in this course is how Developers learn things. 
-Ultimately this will be a **Read-Search-Ask (RSA)** policy. 
-1. Read the instructions and/or documentations...
-2. Search using Google, and finally...
-3. Ask someone. 
+Ultimately this will be a **Read-Search-Ask (RSA)** policy.
+
+ 1. Read the instructions and/or documentations...
+ 2. Search using Google, and finally...
+ 3. Ask someone. 
 
 As we progress, the Developers will be expected to get more and more independent. Consultants are here to help, and we understand that the beginning of the course will require answers from us and your peers.
 
