@@ -123,7 +123,7 @@ a **1:1** or talk about any issue that you're not comfortable talking about in a
 
 "No one is born knowing how to code." - Various
 
-## Staying Healthy
+## Staying Healthy (5 min)
 
 **Sleep** Getting a reasonable amount of sleep (6-9 hours per night, depending on your needs) is important, and can be a useful general guide for a schedule and how much material to work through.
 
@@ -135,7 +135,7 @@ a **1:1** or talk about any issue that you're not comfortable talking about in a
 [comment]: <> (These things are important and if you can work through a good balance of the three first assessments and staying focused on the coursework, you'll make more progress than just trying to push through trying to get all the coursework done. Also help with your other Developers in recognizing when they might need to devote more time to the first three assessments)
 -->
 
-## Assessments
+## Assessments (5 min)
 
 ###General thoughts on assessments:
 
@@ -146,7 +146,7 @@ Also, if the computer does what you want it to do, you've succeeded. This can be
 
 "If you want to run fast run alone, if you want to run long run together." - Keynan proverb.
 
-## Work and Feedback
+## Work and Feedback (10 min)
 
 **Initial 1:1s** will take place the second week of the course and are required. These meetings are to help the 
 Consultants to understand any early challenges, look at your goals, and help make sure the class is a great experience.  
