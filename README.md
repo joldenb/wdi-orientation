@@ -160,9 +160,11 @@ Consultants to understand any early challenges, look at your goals, and help mak
 Let us know if need to schedule a 1:1 closer to the end of class to meet other commitments because some of these meetings 
 might go until 5:30pm.
 
-**Homework** will be reviewed by Thomas every night. If you have specific questions around homework we'll have some time
+**Homework** will be reviewed every night. If you have specific questions around homework we'll have some time
  in the morning, on Slack, or during 1:1s for questions around homework. Keep in mind, we've
  chosen to write the homeworks in a way that will make them a good future reference, and will challenge all students. Sometimes this may be more than you can accomplish in one night. If you're spending several hours on a homework and not making much progress, submit what you have done and move on to something else.  As mentioned earlier, sleep and well-being is important.
+ 
+**Submit homework** by 9am the following class day. To submit, use Slack to send the appropriate GitHub link or similar link directly to the assigned Consultant for the lab day (either @jpbarela or @zebgirouard).
 
 To re-iterate, **submit all of the homeworks**. Even if you don't make much progress on a homework, submit it, as that's important feedback on how we're doing as Consultants and as a class.
 
