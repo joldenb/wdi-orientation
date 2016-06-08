@@ -50,6 +50,13 @@ Value | Learning  					 | Agreement
 [comment]: <> (An example of using fo5 for agreement is take break or finish the next bit of content.)
 -->
 
+### One Cool Thing
+
+Throughout the first week, we will be asking each Developer to find out one cool thing about one of their fellow developers every day.  There are only two rules to this:
+
+ - You can't choose the same Developer twice.
+ - You can't say the same "cool thing" twice.
+
 ### A-ha Board
 
 Another tool we'll be using is the **A-ha Board**. This board is located at the whiteboard in the back of the room. To use the board, whenever you suddenly get something, whenever you have that "A-ha" or "light bulb" moment please get up and put the topic on this board. It can be anything in the course even if it's not related to the current topic and might have been something we covered a few weeks ago.
