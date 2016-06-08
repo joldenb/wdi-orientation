@@ -75,9 +75,9 @@ Time  | Monday - Thursday  			| Friday
 9:00  | Module 1           			| Review
 10:30 | Module 2           			| Outcomes
 12:00 | Lunch              			| Lunch
-1:30  | Module 3           			| Review
-3:00  | Module 4           			| Begin Weekend Lab
-4:30  | One-on-ones/Training start 	| Rest
+1:00  | Module 3           			| Review
+2:30  | Module 4           			| Begin Weekend Lab
+4:00  | One-on-ones/Training start 	| Rest
 
 Each module is usually a training section or a lab section. They'll run about 75 mintues each and then we'll have a 
 quick break. If you need to step out of the room for a bathroom break or a phone call feel free to during the class.
