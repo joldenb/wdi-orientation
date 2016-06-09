@@ -122,6 +122,10 @@ Slack has a great feature like Twitter where you can use ``@zebgirouard`` or ``@
 answer
 The Consultants will review Slack each night for questions. Note that Consultants will not be available 24-7, but will do their best to answer questions as soon as possible. If a Developer doesn't feel their questions were fully answered by the next class, please bring it to the attention of the Consultants at the beginning of class.
 
+### The Help "Queue"
+
+If you would like 1:1 help from Thomas, mention ``@tbraine`` in the ``#wdi-den-june`` channel, and he will set up appointments on a first-come, first-served basis.
+
 There are also a number of ways to work directly with the Consultants. We take **1:1 appointments** after class Monday 
 through Thursday. We might combine **1:1s** into a small group if several people approach with the same issue.
 
