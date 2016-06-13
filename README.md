@@ -21,11 +21,11 @@ Consultants will try to name everyone.
 
 ### Graduation Requirements
 
-- We will take attendance at 9:05a and 1:05p every day
-- No more than 4 unexcused absences 
-- 3 tardys = 1 absence
-- Completion of 80% of homework
-- Completion of all 4 projects
+- We will take attendance at **9:05am** and **1:05pm** every day
+- No more than **4** unexcused absences 
+- **3** tardies = **1** absence
+- Completion of **80%** of homework
+- Completion of all **4** projects
 
 ### Checks for Understanding (CFUs)
 
@@ -110,16 +110,16 @@ There are also general WDI conversations in Slack (not Denver-specific) on ``#wd
 One of the most important things that you'll learn in this course is how Developers learn things. 
 Ultimately this will be a **Read-Search-Ask (RSA)** policy.
 
- 1. Read the instructions and/or documentations...
- 2. Search using Google, and finally...
- 3. Ask someone. 
+ 1. **Read** the instructions and/or documentations...
+ 2. **Search** using Google, and finally...
+ 3. **Ask** someone. 
 
 As we progress, the Developers will be expected to get more and more independent. Consultants are here to help, and we understand that the beginning of the course will require answers from us and your peers.
 
-Slack has a great feature like Twitter where you can use ``@zebgirouard`` or ``@jpbarela`` in the ``#wdi-den-june`` channel, we automatically get notified of that message. Putting content questions in the Slack channel has several benefits:
+Slack has a great feature like Twitter where you can use ``@zebgirouard`` or ``@jpbarela`` in the ``#wdi-den-june`` channel, and we automatically get notified of that message. Putting content questions in the Slack channel has several benefits:
 - Other Developers might have the same question(s) and we can help everyone at the same time
 - Other Developers in the class might have worked through the issue and might be able to help before the Consultants can
-answer
+answer. 
 The Consultants will review Slack each night for questions. Note that Consultants will not be available 24-7, but will do their best to answer questions as soon as possible. If a Developer doesn't feel their questions were fully answered by the next class, please bring it to the attention of the Consultants at the beginning of class.
 
 ### The Help "Queue"
@@ -164,7 +164,7 @@ Consultants to understand any early challenges, look at your goals, and help mak
 Let us know if need to schedule a 1:1 closer to the end of class to meet other commitments because some of these meetings 
 might go until 5:30pm.
 
-**Homework** will be reviewed every night. If you have specific questions around homework we'll have some time
+**Homework** will be reviewed every night. If you have specific questions around homework, we'll have some time
  in the morning, on Slack, or during 1:1s for questions around homework. Keep in mind, we've
  chosen to write the homeworks in a way that will make them a good future reference, and will challenge all students. Sometimes this may be more than you can accomplish in one night. If you're spending several hours on a homework and not making much progress, submit what you have done and move on to something else.  As mentioned earlier, sleep and well-being is important.
  
