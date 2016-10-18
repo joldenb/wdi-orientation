@@ -4,28 +4,25 @@
 Make sure everyone has a similar development environment and similar expectations around how the course will run.
 
 ## What are the objectives
-- **List** some of the common checks for understanding
+- **List** some common checks for understanding
 - **Describe** the schedule for a normal day of training 
 - **List** the ways to communicate with the instructors
 - **Understand** the assessment structure of the course
-- **Create** a development environment on your local machine
-
-## Name Game (5 mins)
-We'll start with some quick name games
-- Say your name and one place other than Denver that you'd like to live
-- Say your name and favorite movie or book
-
-Consultants will try to name everyone.
+- **Verify** functionality of the development environment on your local machine
 
 ## Class Expectations (20 mins)
 
 ### Graduation Requirements
 
-- We will take attendance at **9:05am** and **1:05pm** every day
-- No more than **4** unexcused absences 
-- **3** tardies = **1** absence
-- Completion of **80%** of homework
+- We will have an attendance sheet at the entrance of the classroom
+- You are expected to sign in by **9:05am**, **1:35pm**, and **5:00pm** every day
+- No more than **3** unexcused absences 
+- **3** missed sign-ins = **1** absence
+- Completion of **80%** of homework *
 - Completion of all **4** projects
+
+* Homework must be *submitted* by 9:00am the class day after assignment
+* We expect homeworks to be *completed* by 9:00am the class day after that
 
 ### Checks for Understanding (CFUs)
 
@@ -46,7 +43,7 @@ Value | Learning  					 | Agreement
 5     | I can teach this 	 | That was my idea!
 
 <!--
-[comment]: <> (Note that a lot of the time a good answer is 3 so don't be afraid to use the lower end of the values.)  
+[comment]: <> (Don't be afraid to use the lower end of the values.)  
 [comment]: <> (An example of using fo5 for agreement is take break or finish the next bit of content.)
 -->
 
@@ -57,9 +54,11 @@ Throughout the first week, we will be asking each Developer to find out one cool
  - You can't choose the same Developer twice.
  - You can't say the same "cool thing" twice.
 
-### A-ha Board
+<!-- Zeb needs to enforce/remind this week 1. -->
 
-Another tool we'll be using is the **A-ha Board**. This board is located at the whiteboard in the back of the room. To use the board, whenever you suddenly get something, whenever you have that "A-ha" or "light bulb" moment please get up and put the topic on this board. It can be anything in the course even if it's not related to the current topic and might have been something we covered a few weeks ago.
+### A-ha Moments
+
+Another thing we want to stress is the **A-ha Moment**. Any time you suddenly get something, whenever you have that "A-ha" or "light bulb" moment please share it with the rest of the class on the #wdi-den-halloween channel. It can be anything in the course, even if it's not related to the current topic, and can also be something we covered a few weeks ago.
 
 "It's not at all important to get it right the first time. It's vitally important to get it right the last time." - Dave Thomas (Not the Wendy's Guy)
 
@@ -77,35 +76,36 @@ The typical [schedule for the week](https://github.com/den-wdi-1/schedule/blob/m
 
 #### Daily Schedule Overview
 
-Time  | Monday - Thursday  			| Friday
------ | ------------------ 			| -----  
-9:00  | Module 1           			| Review
-10:30 | Module 2           			| Outcomes
-12:00 | Lunch              			| Lunch
-1:00  | Module 3           			| Review
-2:30  | Module 4           			| Begin Weekend Lab
-4:00  | One-on-ones/Training start 	| Rest
+Time  | Activity
+----- | ------------------ 
+9:00  | Morning Warm-Up
+9:30 | Module 1
+11:00 | Module 2
+12:30 | Lunch
+1:30  | Module 3
+3:00  | Module 4
+4:00  | Independent Work
 
 Each module is usually a training section or a lab section. They'll run about 75 mintues each and then we'll have a 
 quick break. If you need to step out of the room for a bathroom break or a phone call feel free to during the class.
 
 We'll have a detailed schedule up for the next week by the end of the Friday of the week before. The schedule is 
-available on [GitHub](https://github.com/den-wdi-1/schedule). We'll fill in the 
-links for the specifc lesson plans at the beginning of the day. 
+available on [GitHub](https://github.com/den-wdi-2/schedule). We'll fill in the 
+links for the specifc lesson plans by the beginning of the day. 
 
 <!--
 [comment]: <> (We're not putting the lesson plans up because we're going to be making small or larger tweaks as we go through the course. For example if we're coming back on working on something that caused some confusion the first time we looked at, we're going to include some more review before the new material and we don't want to throw anyone off who looked at the material early.)
 
-[cfu]: <> (Fo5 comfort agree with schedule.)
+[cfu]: <> (Ask someone to repeat back in their own words. Fo5 comfort agree with schedule.)
 -->
 
 ## Slack
 
-Feel free to use ``#wdi-den-june`` for any conversations outside of lectures for general course content questions. For any other discussion not related to the curriculum, you can use ``#wdi-den-random``.
+Feel free to use ``#wdi-den-halloween`` for any conversations outside of lectures for general course content questions. For any other discussion not related to the curriculum, you can use ``#wdi-den-random``.
 
 There are also general WDI conversations in Slack (not Denver-specific) on ``#wdi-fundamentals`` and ``#wdi-lounge``.
 
-## Consultant Communications
+## Instructors Communications
 
 One of the most important things that you'll learn in this course is how Developers learn things. 
 Ultimately this will be a **Read-Search-Ask (RSA)** policy.
@@ -114,29 +114,58 @@ Ultimately this will be a **Read-Search-Ask (RSA)** policy.
  2. **Search** using Google, and finally...
  3. **Ask** someone. 
 
-As we progress, the Developers will be expected to get more and more independent. Consultants are here to help, and we understand that the beginning of the course will require answers from us and your peers.
+As we progress, the Developers will be expected to get more and more independent.
 
-Slack has a great feature like Twitter where you can use ``@zebgirouard`` or ``@jpbarela`` in the ``#wdi-den-june`` channel, and we automatically get notified of that message. Putting content questions in the Slack channel has several benefits:
+### GitHub Issues
+
+GitHub is a powerful tool, and we will be using it throughout the class.  One of the most important uses will be building this Developer independence.  If a Developer is having an `issue` with their work on an assignment, and needs help of any kind, we are expecting them to submit a GitHub issue:
+
+#### Feedback on lessons and assignments
+
+Firstly, feedback on lessons and assignments is always appreciated.  If you see something that is confusing, or unclear, please submit a GitHub issue on the relevant repository with a detailed explanation.
+
+#### Request for help from Instructors
+
+1. Secondly, any request for help from instructors should follow the **Read, Search, Ask** policy mentioned above. Specifically, to request help we are expecting a GitHub issue on the relevant repository with the following information:
+ a. Two online resources the Developer found, but did not satisfy the need for help
+ b. The name of one Developer whom you already asked
+ c. A detailed description of the problem
+2. In order to request help from an Instructor, send a Slack message to `#wdi-den-halloween` with a link to the GitHub issue you created, and a tag for the relevant Instructor (``@zebgirouard`` or ``@nick_anderson``).
+
+### Instructor Availability
+
+Please address requests to the Instructor on duty at the time:
+
+- Zeb will field any requests in the `#wdi-den-halloween` channel from 9am to 2pm.  
+- Nick will field any requests in the `#wdi-den-halloween` channel from 2pm to 8pm. 
+
+Instructors will automatically get notified of any message tagged with, for example, ``@zebgirouard`` or ``@nick_anderson``. 
+
+Putting content questions in the Slack channel has several benefits:
 - Other Developers might have the same question(s) and we can help everyone at the same time
-- Other Developers in the class might have worked through the issue and might be able to help before the Consultants can
+- Other Developers in the class might have worked through the issue and might be able to help before the Instructors can
 answer. 
-The Consultants will review Slack each night for questions. Note that Consultants will not be available 24-7, but will do their best to answer questions as soon as possible. If a Developer doesn't feel their questions were fully answered by the next class, please bring it to the attention of the Consultants at the beginning of class.
+
+Note that Instructors will not be available 24-7, but will do their best to answer questions as soon as possible. If a Developer doesn't feel their questions were fully answered by the next class, please bring it to the attention of the Instructors at the beginning of class.
 
 ### The Help "Queue"
 
-If you would like 1:1 help from Thomas, mention ``@tbraine`` in the ``#wdi-den-june`` channel, and he will set up appointments on a first-come, first-served basis.
+If you would like 1:1 help from either of the Instructors, mention ``@zebgirouard`` or ``@nick_anderson`` in the ``#wdi-den-halloween`` channel, and we will set up appointments on a first-come, first-served basis.
 
-There are also a number of ways to work directly with the Consultants. We take **1:1 appointments** after class Monday 
-through Thursday. We might combine **1:1s** into a small group if several people approach with the same issue.
+There are also a number of ways to work directly with the Instructors. We take **1:1 appointments** after class Monday 
+through Thursday (5pm and on). We might combine **1:1s** into a small group if several people approach with the same issue.
 
-Consultants can take direct messages for other non-content related issues. Direct messages are a great way to schedule 
-a **1:1** or talk about any issue that you're not comfortable talking about in a public channel.
+### Other Issues
+
+Instructors can take direct messages for non-content related issues. Direct messages are a great way to talk about any issue that you're not comfortable talking about in a public channel.
 
 "No one is born knowing how to code." - Various
 
 ## Staying Healthy (5 min)
 
-**Sleep** Getting a reasonable amount of sleep (6-9 hours per night, depending on your needs) is important, and can be a useful general guide for a schedule and how much material to work through.
+This course will be a lot of work.  We will ask a lot of you, and we want to make sure that that is balanced with your personal health needs.
+
+**Sleep** Getting a reasonable amount of sleep is important. 6-9 hours per night, depending on your needs, can be a useful general guide for a schedule and how much material to work through.
 
 **Exercise** Getting out for some exercise everyday will help you learn and think creatively, so don't be afraid to take some time for exercise.
 
@@ -148,36 +177,33 @@ a **1:1** or talk about any issue that you're not comfortable talking about in a
 
 ## Assessments (5 min)
 
-###General thoughts on assessments:
+### General thoughts on assessments:
 
 The best way to program is to program. Try things out. Make mistakes and fix them. One of the great advantages of 
 programming is that you can gain your 10,000 hours of practice with constant feedback from the computer itself. The important thing to remember is that this is a safe place to make these mistakes, fix them, and learn from them.
 
-Also, if the computer does what you want it to do, you've succeeded. This can be really confusing, but generally, "No news is good news," with a computer. If you are ever unsure of what's happening "under the hood", use the **Read-Search-Ask** policy. Your peers and the Consultants are here to help.
+Also, if the computer does what you want it to do, you've succeeded. This can be really confusing, but generally, "No news is good news," with a computer. If you are ever unsure of what's happening "under the hood", use the **Read-Search-Ask** policy. Your peers and the Instructors are here to help.
 
 "If you want to run fast run alone, if you want to run long run together." - Keynan proverb.
 
 ## Work and Feedback (10 min)
 
-**Initial 1:1s** will take place the second week of the course and are required. These meetings are to help the 
-Consultants to understand any early challenges, look at your goals, and help make sure the class is a great experience.  
-Let us know if need to schedule a 1:1 closer to the end of class to meet other commitments because some of these meetings 
-might go until 5:30pm.
+**Exit Tickets** are weekly surveys that we will deliver toward the end of every week.  Please be as honest and open as possible, because your feedback helps us shape the course, and the earlier we can do that shaping the better.
 
-**Homework** will be reviewed every night. If you have specific questions around homework, we'll have some time
- in the morning, on Slack, or during 1:1s for questions around homework. Keep in mind, we've
- chosen to write the homeworks in a way that will make them a good future reference, and will challenge all students. Sometimes this may be more than you can accomplish in one night. If you're spending several hours on a homework and not making much progress, submit what you have done and move on to something else.  As mentioned earlier, sleep and well-being is important.
+**Homework** will be reviewed every night. If you have specific questions around homework, follow the procedure for GitHub Issue submission above. Keep in mind, we've chosen to write the homeworks in a way that will make them a good future reference, and will challenge all students. Sometimes this may be more than you can accomplish in one night. If you're spending several hours on a homework and not making much progress, submit what you have done and move on to something else.  As mentioned earlier, sleep and well-being is important.
  
-**Submit homework** by 9am the following class day. To submit, use Slack to send the appropriate GitHub link or similar link directly to the assigned Consultant for the lab day (either @jpbarela or @zebgirouard).
+**Submit homework** by 9am the following class day. To submit, use Slack to send the appropriate GitHub link or similar link directly to `@nick_anderson`.
 
-To re-iterate, **submit all of the homeworks**. Even if you don't make much progress on a homework, submit it, as that's important feedback on how we're doing as Consultants and as a class.
+To re-iterate, **submit all of the homeworks**. Even if you don't make much progress on a homework, submit it, as that's important feedback on how we're doing as Instuctors and as a class.
 
-**Labs** will not be formally reviewed, but questions that come up after the lab can come through Slack and 1:1s. Labs are similar to homework in the sense that we're writing them to be good references on the topic, and sometimes there may be more work than you can do.
+**Homework Feedback** will be given by one of the Instructors.  You will receive a direct message with an indication of your pass/fail grade on the assignment, one specific "glow" (thing you did well), one specific "grow" (something you could improve), and one question for future development.
+
+**Labs** during the day will not be formally reviewed, but questions that come up after the lab can come through Slack and 1:1s. Labs are similar to homework in the sense that we're writing them to be good references on the topic, and sometimes there may be more work than you can do.
 
 **Projects** will include a rubric, or a predefined set of standards that will be evaluated. For projects 1-3, the 
-Consultants will go through your code and highlight any specific issues that we see to help you understand how to write 
-better code. The Consultants will also have a 1:1 with each developer where we go through the rubric and celebrate your 
-progress in the rubric and help work through any issues.
+Instuctors will go through your code and highlight any specific issues that we see to help you understand how to write 
+better code. The Instuctors will also have a 1:1 with each developer where we go through the rubric and celebrate your 
+progress and help work through any issues.
 
 <!--Mention about Project 4 due at graduation, so handled a little differently. -->
 
@@ -187,11 +213,11 @@ progress in the rubric and help work through any issues.
 
 If any Developers need help with the installFest materials they received last week, we are here to help.
 
-** [https://github.com/den-wdi-1/installFest/blob/master/mac-dev-tools.md](Setup your Mac Development Tools)
+** [https://github.com/den-wdi-2/installFest/blob/master/mac-dev-tools.md](Setup your Mac Development Tools)
 
-** [https://github.com/den-wdi-1/installFest/blob/master/express-stack.md](Setup your Node Environment)
+** [https://github.com/den-wdi-2/installFest/blob/master/express-stack.md](Setup your Node Environment)
 
-** [https://github.com/den-wdi-1/installFest/blob/master/ruby-on-rails-stack.md](Setup your Ruby Environment)
+** [https://github.com/den-wdi-2/installFest/blob/master/ruby-on-rails-stack.md](Setup your Ruby Environment)
 
 # Intro to WDI and Team
 
@@ -229,11 +255,11 @@ Closed | Sunday
 - If you are bringing guests to the space, please notify the front desk.
 - Unless there is a GA event, doors at WeWork close at 6pm. Developers are welcome to stay during operating hours but if WeWork is closed be aware that you may be locked out if you leave.
 
-## Getting to Know Your Fellow Developers and Consultants (65 min)
+## Getting to Know Your Fellow Developers and Instructors (65 min)
 
 ### Team Name Choice
 
- - Today, we will choose a Developer Team name.  Since we will be pretty nerdy the next three months (we probably were already), the Consultants have been brainstorming on three themes.
+ - Today, we will choose a Developer Team name.  Since we will be pretty nerdy the next three months (we probably were already), the Instructors have been brainstorming on three themes.
  - Now, we will continue the brainstorming, and vote on our favorite name.
  - Theme 1: Star Wars
   - e.g. Jedi, Sith
@@ -244,7 +270,7 @@ Closed | Sunday
 
 ### Introductions
 
- - Consultants introductions
+ - Instructors introductions
  - Developers introductions
  
 ### Trivial Pursuit
@@ -260,14 +286,14 @@ Closed | Sunday
   - As an individual, take 5 minutes to choose 8 values from the list below that you think are most important.
   - Now, take another couple minutes to choose the top 2 from that list.
   - Send those two values to the #wdi-den-june channel.
-  - The Consultants will compile this into a value statement for the team this week.
+  - The Instructors will compile this into a value statement for the team this week.
 
 ### Goals
  - Another thing we want to establish are growth goals for each student.  Take the next 5 minutes to come up with:
   - One personal project goal that you would like to see built or be able to build by the end of this training.
   - One personal general goal that you would like to accomplish by the end of this training.
   - Send those two goals to the #wdi-den-june channel.
-  - The Consultants will compile this into a goal list for the team this week, so that we can all help each other reach them by the end of the training.
+  - The Instructors will compile this into a goal list for the team this week, so that we can all help each other reach them by the end of the training.
 
 ### One Cool Thing
 
