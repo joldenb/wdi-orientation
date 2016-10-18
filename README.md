@@ -169,9 +169,9 @@ Firstly, feedback on lessons and assignments is always appreciated.  If you see 
 #### Request for help from Instructors
 
 1. Secondly, any request for help from instructors should follow the **Read, Search, Ask** policy mentioned above. Specifically, to request help we are expecting a GitHub issue on the relevant repository with the following information:
- a. Two online resources the Developer found, but did not satisfy the need for help
- b. The name of one Developer whom you already asked
- c. A detailed description of the problem
+ 1. Two online resources the Developer found, but did not satisfy the need for help
+ 2. The name of one Developer whom you already asked
+ 3. A detailed description of the problem
 2. In order to request help from an Instructor, send a Slack message to `#wdi-den-halloween` with a link to the GitHub issue you created, and a tag for the relevant Instructor (``@zebgirouard`` or ``@nick_anderson``).
 
 ### Instructor Availability
