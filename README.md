@@ -54,11 +54,12 @@ Closed | Sunday
 - You are expected to sign in by **9:05am**, **1:35pm**, and **5:00pm** every day
 - No more than **3** unexcused absences 
 - **3** missed sign-ins = **1** absence
-- Completion of **80%** of homework *
+- Completion of **80%** of homework \*
 - Completion of all **4** projects
 
-* Homework must be *submitted* by 9:00am the class day after assignment
-* We expect homeworks to be *completed* by 9:00am the class day after that
+\* Homework must be *submitted* by 9:00am the class day after assignment
+
+\* We expect homeworks to be *completed* by 9:00am the class day after that
 
 ### Checks for Understanding (CFUs)
 
@@ -110,7 +111,7 @@ The Consultant speaking here could put something they recently found out to be #
 
 ## Schedule 
 
-The typical [schedule for the week](https://github.com/den-wdi-1/schedule/blob/master/README.md) is below:
+The typical [schedule for the week](https://github.com/den-wdi-2/schedule/blob/master/README.md) is below:
 
 #### Daily Schedule Overview
 
@@ -122,10 +123,14 @@ Time  | Activity
 12:30 | Lunch
 1:30  | Module 3
 3:00  | Module 4
-4:00  | Independent Work
+4:00  | Independent Work*
+
+\* From 4:00pm to 5:00pm, the Instructors will be unavailable for questions or issues.
 
 Each module is usually a training section or a lab section. They'll run about 75 mintues each and then we'll have a 
 quick break. If you need to step out of the room for a bathroom break or a phone call feel free to during the class.
+
+The schedule above is a general guideline, but we will give a more accurate schedule at the beginning of every day.
 
 We'll have a detailed schedule up for the next week by the end of the Friday of the week before. The schedule is 
 available on [GitHub](https://github.com/den-wdi-2/schedule). We'll fill in the 
@@ -164,7 +169,7 @@ GitHub is a powerful tool, and we will be using it throughout the class.  One of
 
 #### Feedback on lessons and assignments
 
-Firstly, feedback on lessons and assignments is always appreciated.  If you see something that is confusing, or unclear, please submit a GitHub issue on the relevant repository with a detailed explanation.
+Firstly, feedback on lessons and assignments is always appreciated.  If you see something that is confusing, or unclear, please submit a GitHub issue on the relevant repository with a detailed explanation.  Then send a Slack message to `#wdi-den-halloween` with a link to the GitHub issue you created, and a tag for the relevant Instructor (``@zebgirouard`` or ``@nick_anderson``).
 
 #### Request for help from Instructors
 
