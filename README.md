@@ -24,6 +24,7 @@ Parking is not easy around General Assembly and WeWork. The following options ar
 - If you can take public transit, bike, or walk to work, it will lower your stress levels significantly, and probably save you some money.
 - There is free parking across the highway, but long-term spots are, well, spotty.
 - We **highly** recommend downloading the SpotHero app.  It usually has a lot within 5-minutes walk of WeWork for $5-6 / day, but there are no guarantees.  You may end up spending as much as $10 / day.
+- You can also ask an attendant at the WeWork desk about the monthly park-and-shuttle option.
 
 ### Operating Hours for GA Students
 Time | Day
@@ -40,7 +41,7 @@ Closed | Sunday
 - If you want to use an open conference room, please ask an Instructor if the space is available.
 - The darts, ping-pong tables, and other communal spaces are also available. Again, just be mindful of your neighbors and share.
 - The food in the Honesty Market across from the bar is available for purchase. It's not free, but you can use your credit card to purchase things.
-- Similarly, if you see any food on the kitchen/cafe tables, please ask the WeWork staff if you can have some.
+- Similarly, if you see any food on the kitchen/cafe tables, please ask the WeWork staff if you can have some.  It may not be up for grabs.
 - You can use the fridge in the kitchen/cafe for drinks or food. Please put your name on anything, and the date you put it in. **WeWork will clean the fridge every Friday at 3pm**. If you see unclaimed food or drink in the fridge, please ask the WeWork staff if you can have some.
 - If you are bringing guests to the space, please notify the front desk.
 - Unless there is a GA event, doors at WeWork lock at 6pm. Developers are welcome to stay during operating hours but if you leave, you will need a key card for re-entry.
@@ -81,7 +82,7 @@ Value | Learning  					 | Agreement
 
 <!--
 [comment]: <> (Don't be afraid to use the lower end of the values.)  
-[comment]: <> (An example of using fo5 for agreement is take break or finish the next bit of content.)
+[comment]: <> (An example of using fo5 for agreement is taking a break or finishing the next bit of content.)
 -->
 
 ### One Cool Thing
@@ -157,7 +158,7 @@ There are also general WDI conversations in Slack (not Denver-specific) on ``#wd
 One of the most important things that you'll learn in this course is how Developers learn things. 
 Ultimately this will be a **Read-Search-Ask (RSA)** policy.
 
- 1. **Read** the instructions and/or documentations...
+ 1. **Read** the instructions and/or documentation...
  2. **Search** using Google, and finally...
  3. **Ask** someone. 
 
@@ -186,7 +187,7 @@ Please address requests to the Instructor on duty at the time:
 - Zeb will field any requests in the `#wdi-den-halloween` channel from 9am to 2pm.  
 - Nick will field any requests in the `#wdi-den-halloween` channel from 2pm to 8pm. 
 
-Instructors will automatically get notified of any message tagged with, for example, ``@zebgirouard`` or ``@nick_anderson``. 
+The instructor mentioned will automatically get notified of any message tagged with ``@zebgirouard`` or ``@nick_anderson``. 
 
 Putting content questions in the Slack channel has several benefits:
 - Other Developers might have the same question(s) and we can help everyone at the same time
@@ -245,7 +246,7 @@ Also, if the computer does what you want it to do, you've succeeded. This can be
 
 **Homework** will be reviewed every night. If you have specific questions around homework, follow the procedure for GitHub Issue submission above. Keep in mind, we've chosen to write the homeworks in a way that will make them a good future reference, and will challenge all students. Sometimes this may be more than you can accomplish in one night. If you're spending several hours on a homework and not making much progress, submit what you have done and move on to something else.  As mentioned earlier, sleep and well-being is important.
  
-**Submit homework** by 9am the following class day. To submit, use Slack to send the appropriate GitHub link or similar link directly to `@nick_anderson`.
+**Submit homework** by 9am the following class day. We will be using [Schoology](https://www.schoology.com/) for our submissions. You should have received an invite to Schoology today. We will walk through submitting your first test assignment (your pre-work) by the end of today.
 
 To re-iterate, **submit all of the homeworks**. Even if you don't make much progress on a homework, submit it, as that's important feedback on how we're doing as Instuctors and as a class.
 
