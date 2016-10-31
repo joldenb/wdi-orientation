@@ -290,11 +290,11 @@ progress and help work through any issues.
 
 If any Developers need help with the installFest materials they received last week, we are here to help.
 
-** [https://github.com/den-wdi-2/installFest/blob/master/mac-dev-tools.md](Setup your Mac Development Tools)
+** [Setup your Mac Development Tools](https://github.com/den-wdi-2/installFest/blob/master/mac-dev-tools.md)
 
-** [https://github.com/den-wdi-2/installFest/blob/master/express-stack.md](Setup your Node Environment)
+** [Setup your Node Environment](https://github.com/den-wdi-2/installFest/blob/master/express-stack.md)
 
-** [https://github.com/den-wdi-2/installFest/blob/master/ruby-on-rails-stack.md](Setup your Ruby Environment)
+** [Setup your Ruby Environment](https://github.com/den-wdi-2/installFest/blob/master/ruby-on-rails-stack.md)
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
