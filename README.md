@@ -231,8 +231,7 @@ This course will be a lot of work.  We will ask a lot of you, and we want to mak
 
 ### General thoughts on assessments:
 
-The best way to program is to program. Try things out. Make mistakes and fix them. One of the great advantages of 
-programming is that you can gain your 10,000 hours of practice with constant feedback from the computer itself. The important thing to remember is that this is a safe place to make these mistakes, fix them, and learn from them.
+The best way to learn how to program is to program. Try things out. Make mistakes and fix them. One of the great advantages of programming is that you can gain your 10,000 hours of practice with constant feedback from the computer itself. The important thing to remember is that this is a safe place to make these mistakes, fix them, and learn from them.
 
 Also, if the computer does what you want it to do, you've succeeded. This can be really confusing, but generally, "No news is good news," with a computer. If you are ever unsure of what's happening "under the hood", use the **Read-Search-Ask** policy. Your peers and the Instructors are here to help.
 
