@@ -1,3 +1,5 @@
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
+
 # Orientation
 
 ## Why is this important?
@@ -12,6 +14,7 @@ Make sure everyone has a similar development environment and similar expectation
 - **Verify** functionality of the development environment on your local machine
 
 <!-- 9:35 10 minutes -->
+
 ## WeWork
 
 ### WiFi
@@ -26,19 +29,11 @@ Parking is not easy around General Assembly and WeWork. The following options ar
 - We **highly** recommend downloading the SpotHero app.  It usually has a lot within 5-minutes walk of WeWork for $5-6 / day, but there are no guarantees.  You may end up spending as much as $10 / day.
 - You can also ask an attendant at the WeWork desk about the monthly park-and-shuttle option.
 
-### Operating Hours for GA Students
-Time | Day
----- | ---
-8:30a - 10:00p | Monday - Thursday
-8:30a - 6:00p | Friday 
-9:30 - 4:00p | Saturday
-Closed | Sunday 
-
 ### Using WeWork Space
 
 - There are a lot of businesses here at WeWork. Please be mindful of your neighbors, their space, and their things.
-- The water, coffee, and tea are free. Drink as much as you want.
-- If you want to use an open conference room, please ask an Instructor if the space is available.
+- The water, coffee, tea, and kombucha are free. Drink as much as you want.
+- If you want to use an open conference room, please ask a WeWork staff member if the space is available.
 - The darts, ping-pong tables, and other communal spaces are also available. Again, just be mindful of your neighbors and share.
 - The food in the Honesty Market across from the bar is available for purchase. It's not free, but you can use your credit card to purchase things.
 - Similarly, if you see any food on the kitchen/cafe tables, please ask the WeWork staff if you can have some.  It may not be up for grabs.
@@ -64,16 +59,16 @@ Closed | Sunday
 
 ### Checks for Understanding (CFUs)
 
-### Fist-to-Five
+#### Fist-to-Five
 
-One of the things you'll notice about the trainings is that we'll chop them up and ask you individual questions, and 
+One of the things you'll notice about the classes is that we'll chop them up and ask you individual questions, and 
 make sure everyone is keeping up. We'll be using several techniques and tools to look at how the whole class is doing 
 and one of those techniques is called the **Fist-to-Five**. Everyone holds up between 0 and 5 fingers depending on how they
 feel. We'll typically use **Fist-to-Five** in two cases: to check on how you understand some piece of content or to check on agreement.
 
 Value | Learning  					 | Agreement
 ----- | -----------------------------| -----  
-0     | Did I walk into wrong class? | I am offended by this
+0     | Did I walk into the wrong class? | I am offended by this
 1     | I need help                             | I have strong reservations
 2     | I think I need some help                             | I have a few reservations
 3     | I understand  	 | I'm OK with this
@@ -94,25 +89,23 @@ Throughout the first week, we will be asking each Developer to find out one cool
 
 <!-- Zeb needs to enforce/remind this week 1. -->
 
-### A-ha Moments
+### Shout Outs
 
-Another thing we want to stress is the **A-ha Moment**. Any time you suddenly get something, whenever you have that "A-ha" or "light bulb" moment please share it with the rest of the class on the #wdi-den-halloween channel. It can be anything in the course, even if it's not related to the current topic, and can also be something we covered a few weeks ago.
+Another thing we want to stress is the **Shout Out**. Any time one of your squadmates gives you an "A-ha" moment, or knocks a lab out of the park, please share it with the rest of the class on the #wdi3 channel. It can be anything in the course, even if it's not related to the current topic, and can also be something we covered a few weeks ago.
 
-"It's not at all important to get it right the first time. It's vitally important to get it right the last time." - Dave Thomas (Not the Wendy's Guy)
+> "It's not at all important to get it right the first time. It's vitally important to get it right the last time." - Dave Thomas (Not the Wendy's Guy)
 
 <!--
-[comment]: <> (An example of something completely unrelated or tangentially related is that I understood the proprietary JS framework at a company only after I studied another framework called EmberJS)
+[comment]: <> (Instructor should have a shout-out ready for a developer or co-instructor)
 
-The Consultant speaking here could put something they recently found out to be #1 A-ha Moment
-
-[cfu]: <> (Fo5 CFUs)
+[cfu]: <> (Fo5 on everything we just covered)
 -->
 
 <!--9:55 5 minutes -->
 
 ## Schedule 
 
-The typical [schedule for the week](https://github.com/den-wdi-2/schedule/blob/master/README.md) is below:
+The typical [schedule for the week](https://github.com/den-wdi-3/schedule/) is below:
 
 #### Daily Schedule Overview
 
@@ -129,16 +122,16 @@ Time  | Activity
 \* From 4:00pm to 5:00pm, the Instructors will be unavailable for questions or issues.
 
 Each module is usually a training section or a lab section. They'll run about 75 mintues each and then we'll have a 
-quick break. If you need to step out of the room for a bathroom break or a phone call feel free to during the class.
+quick break. If you need to step out of the room for a bathroom break or a phone call, feel free to during the class.
 
 The schedule above is a general guideline, but we will give a more accurate schedule at the beginning of every day.
 
 We'll have a detailed schedule up for the next week by the end of the Friday of the week before. The schedule is 
-available on [GitHub](https://github.com/den-wdi-2/schedule). We'll fill in the 
+available on [GitHub](https://github.com/den-wdi-3/schedule). We'll fill in the 
 links for the specifc lesson plans by the beginning of the day. 
 
 <!--
-[comment]: <> (We're not putting the lesson plans up because we're going to be making small or larger tweaks as we go through the course. For example if we're coming back on working on something that caused some confusion the first time we looked at, we're going to include some more review before the new material and we don't want to throw anyone off who looked at the material early.)
+[comment]: <> (We're not putting the lesson plans up because we're going to be making tweaks as we go through the course. For example, if we're coming back to something that caused some confusion the first time we looked at, we're going to include some more review before the new material and we don't want to throw anyone off who looked at the material early.)
 
 [cfu]: <> (Ask someone to repeat back in their own words. Fo5 comfort agree with schedule.)
 -->
@@ -149,9 +142,7 @@ links for the specifc lesson plans by the beginning of the day.
 
 ### Slack
 
-Feel free to use ``#wdi-den-halloween`` for any conversations outside of lectures for general course content questions. For any other discussion not related to the curriculum, you can use ``#wdi-den-random``.
-
-There are also general WDI conversations in Slack (not Denver-specific) on ``#wdi-fundamentals`` and ``#wdi-lounge``.
+Feel free to use ``#wdi3`` for any conversations outside of lectures for general course content questions. For any other discussion not related to the curriculum, you can use ``#random``.
 
 ### Instructors Communication
 
@@ -162,15 +153,15 @@ Ultimately this will be a **Read-Search-Ask (RSA)** policy.
  2. **Search** using Google, and finally...
  3. **Ask** someone. 
 
-As we progress, the Developers will be expected to get more and more independent.
+As we progress, the Developers will be expected to get more and more independent.  This will be painful, but there is a reason for it.
 
 ### GitHub Issues
 
-GitHub is a powerful tool, and we will be using it throughout the class.  One of the most important uses will be building this Developer independence.  If a Developer is having an `issue` with their work on an assignment, and needs help of any kind, we are expecting them to submit a GitHub issue:
+GitHub is a powerful tool, and we will be using it throughout the class.  One of the most important uses of it will be building this Developer independence.  If a Developer is having an `issue` with their work on an assignment, and needs help of any kind, we are expecting them to submit a GitHub issue:
 
 #### Feedback on lessons and assignments
 
-Firstly, feedback on lessons and assignments is always appreciated.  If you see something that is confusing, or unclear, please submit a GitHub issue on the relevant repository with a detailed explanation.  Then send a Slack message to `#wdi-den-halloween` with a link to the GitHub issue you created, and a tag for the relevant Instructor (``@zebgirouard`` or ``@nick_anderson``).
+Firstly, feedback on lessons and assignments is always appreciated.  If you see something that is confusing, or unclear, please submit a GitHub issue on the relevant repository with a detailed explanation.  Then send a Slack message to `#wdi3` with a link to the GitHub issue you created, and a tag for the relevant Instructor (``@zeb`` or ``@nick_anderson``).
 
 #### Request for help from Instructors
 
@@ -178,16 +169,16 @@ Firstly, feedback on lessons and assignments is always appreciated.  If you see 
  1. Two online resources the Developer found, but did not satisfy the need for help
  2. The name of one Developer whom you already asked
  3. A detailed description of the problem
-2. In order to request help from an Instructor, send a Slack message to `#wdi-den-halloween` with a link to the GitHub issue you created, and a tag for the relevant Instructor (``@zebgirouard`` or ``@nick_anderson``).
+2. In order to request help from an Instructor, send a Slack message to `#wdi3` with a link to the GitHub issue you created, and a tag for the relevant Instructor (``@zeb`` or ``@nick.anderson``).
 
 ### Instructor Availability
 
 Please address requests to the Instructor on duty at the time:
 
-- Zeb will field any requests in the `#wdi-den-halloween` channel from 9am to 2pm.  
-- Nick will field any requests in the `#wdi-den-halloween` channel from 2pm to 8pm. 
+- Zeb will field any requests in the `#wdi3` channel from 9am to 2pm.  
+- Nick will field any requests in the `#wdi3` channel from 2pm to 8pm. 
 
-The instructor mentioned will automatically get notified of any message tagged with ``@zebgirouard`` or ``@nick_anderson``. 
+The instructor mentioned will automatically get notified of any message tagged with ``@zeb`` or ``@nick.anderson``. 
 
 Putting content questions in the Slack channel has several benefits:
 - Other Developers might have the same question(s) and we can help everyone at the same time
@@ -198,7 +189,7 @@ Note that Instructors will not be available 24-7, but will do their best to answ
 
 ### The Help "Queue"
 
-If you would like 1:1 help from either of the Instructors, mention ``@zebgirouard`` or ``@nick_anderson`` in the ``#wdi-den-halloween`` channel, and we will set up appointments on a first-come, first-served basis.
+If you would like 1:1 help from either of the Instructors, mention ``@zeb`` or ``@nick.anderson`` in the ``#wdi3`` channel, and we will set up appointments on a first-come, first-served basis.
 
 There are also a number of ways to work directly with the Instructors. We take **1:1 appointments** after class Monday 
 through Thursday (5pm and on). We might combine **1:1s** into a small group if several people approach with the same issue.
@@ -222,7 +213,7 @@ This course will be a lot of work.  We will ask a lot of you, and we want to mak
 **Family/Free time** The course moves fast, and it will take a lot of time, but don't feel bad if you need to take time for family or just take a break. You'll usually find you can make more progress when you come back from that break.
 
 <!--
-[comment]: <> (These things are important and if you can work through a good balance of the three first assessments and staying focused on the coursework, you'll make more progress than just trying to push through trying to get all the coursework done. Also help with your other Developers in recognizing when they might need to devote more time to the first three assessments)
+[comment]: <> (These things are important and if you can work through a good balance of these pieces and staying focused on the coursework, you'll make more progress than just trying to push through to get all the coursework done. Also help with your other Developers in recognizing when they might need to devote more time to these pieces)
 -->
 
 <!--10:15 5 minutes -->
@@ -231,7 +222,7 @@ This course will be a lot of work.  We will ask a lot of you, and we want to mak
 
 ### General thoughts on assessments:
 
-The best way to learn how to program is to program. Try things out. Make mistakes and fix them. One of the great advantages of programming is that you can gain your 10,000 hours of practice with constant feedback from the computer itself. The important thing to remember is that this is a safe place to make these mistakes, fix them, and learn from them.
+The best way to learn how to program is to program. Try things out. Make mistakes and fix them. One of the great advantages of programming is that you can gain your "10,000 hours" of practice with constant feedback from the computer itself. The important thing to remember is that this is a safe place to make these mistakes, fix them, and learn from them.
 
 Also, if the computer does what you want it to do, you've succeeded. This can be really confusing, but generally, "No news is good news," with a computer. If you are ever unsure of what's happening "under the hood", use the **Read-Search-Ask** policy. Your peers and the Instructors are here to help.
 
@@ -245,11 +236,11 @@ Also, if the computer does what you want it to do, you've succeeded. This can be
 
 **Homework** will be reviewed every night. If you have specific questions around homework, follow the procedure for GitHub Issue submission above. Keep in mind, we've chosen to write the homeworks in a way that will make them a good future reference, and will challenge all students. Sometimes this may be more than you can accomplish in one night. If you're spending several hours on a homework and not making much progress, submit what you have done and move on to something else.  As mentioned earlier, sleep and well-being is important.
  
-**Submit homework** by 9am the following class day. We will be using [Schoology](https://www.schoology.com/) for our submissions. You should have received an invite to Schoology today. We will walk through submitting your first test assignment (your pre-work) by the end of today.
+**Submit homework** by 9am the following class day. We will be using [Schoology](https://www.schoology.com/) for our submissions. You should have received an invite to Schoology today. We will walk through submitting your first test assignment by the end of today.
 
 To re-iterate, **submit all of the homeworks**. Even if you don't make much progress on a homework, submit it, as that's important feedback on how we're doing as Instuctors and as a class.
 
-**Homework Feedback** will be given by one of the Instructors.  You will receive a direct message with an indication of your pass/fail grade on the assignment, one specific "glow" (thing you did well), one specific "grow" (something you could improve), and one question for future development.
+**Homework Feedback** will be given by one of the Instructors.  You will receive a direct message with an indication of your pass/fail grade on the assignment, one specific "glow" (thing you did well), and one specific "grow" (something you could improve).
 
 **Labs** during the day will not be formally reviewed, but questions that come up after the lab can come through Slack and 1:1s. Labs are similar to homework in the sense that we're writing them to be good references on the topic, and sometimes there may be more work than you can do.
 
@@ -258,7 +249,7 @@ Instuctors will go through your code and highlight any specific issues that we s
 better code. The Instuctors will also have a 1:1 with each developer where we go through the rubric and celebrate your 
 progress and help work through any issues.
 
-<!--Mention about Project 4 due at graduation, so handled a little differently. -->
+<!--Mention about Project 4 due at graduation, so handled a little differently, like an actual dev team project. -->
 
 "You are not your code." - Multiple Quora Users
 
@@ -281,8 +272,31 @@ progress and help work through any issues.
  - Another thing we want to establish are growth goals for each student.  Take the next 5 minutes to come up with:
   - One personal project goal that you would like to see built or be able to build by the end of this training.
   - One personal general goal that you would like to accomplish by the end of this training.
-  - Send those two goals to the #wdi-den-halloween channel.
+  - Send those two goals to the #wdi3 channel.
   - The Instructors will compile this into a goal list for the team this week, so that we can all help each other reach them by the end of the training.
+
+<!--These goals might be a good way to decide who goes on which "squad" for Unit 1 -->
+
+## Final Thoughts
+- Programming is not about learning a sequence of steps, it's about developing a mindset to solve problems and think programmatically.
+- Language not important
+    - critical/analytical/programatic thinking.
+    - don't memorize, conceptualize ideas.
+        - the internet is your notebook/memory
+    - be able to adapt quickly
+- Deal with chaos in your head. Being confused/lost is NORMAL. No one pays you because you know all the answers. The job is about jumping into confusion and being able to find a solution.
+- Development can be very personal
+	- Debugging your own mistakes
+	- Being a good "Googler" and reading tech documents takes practice
+	- You learn more by doing than by listening
+	- We try not to hold your hand
+		- There is a decent amount of failure that happens initially
+			- good to get that out of the way before starting work
+- Hard Work: 80-90hrs/wk minimum
+- The maximum point of learning is right at the edge of learning and panic.
+![learning zone](learning-zone.jpeg)
+- This experience is a rollercoaster.
+![informed optimism?](informed-optimism.jpeg)
 
 <!--10:40 -->
 
@@ -290,11 +304,11 @@ progress and help work through any issues.
 
 If any Developers need help with the installFest materials they received last week, we are here to help.
 
-** [Setup your Mac Development Tools](https://github.com/den-wdi-2/installFest/blob/master/mac-dev-tools.md)
+** [Setup your Mac Development Tools](https://github.com/den-materials/installFest/blob/master/mac-dev-tools.md)
 
-** [Setup your Node Environment](https://github.com/den-wdi-2/installFest/blob/master/express-stack.md)
+** [Setup your Node Environment](https://github.com/den-materials/installFest/blob/master/express-stack.md)
 
-** [Setup your Ruby Environment](https://github.com/den-wdi-2/installFest/blob/master/ruby-on-rails-stack.md)
+** [Setup your PHP/Postgres Environment](https://github.com/den-materials/installFest/blob/master/php-and-postgres.md)
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
