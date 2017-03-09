@@ -41,7 +41,7 @@ Parking is not easy around General Assembly and WeWork. The following options ar
 - If you are bringing guests to the space, please notify the front desk.
 - Unless there is a GA event, doors at WeWork lock at 6pm. Developers are welcome to stay during operating hours but if you leave, you will need a key card for re-entry.
 
-<!--9:45 10 minutes -->
+<!--9:45 15 minutes -->
 ## Class Expectations
 
 ### Graduation Requirements
@@ -101,7 +101,13 @@ Another thing we want to stress is the **Shout Out**. Any time one of your squad
 [cfu]: <> (Fo5 on everything we just covered)
 -->
 
-<!--9:55 5 minutes -->
+### Squads
+
+Every unit, we will establish 'squads' - these small teams will contain 3-4 developers who will sit together and be each other's first lifeline if Google does not resolve an issue. Your squad will be responsible for approving your project ideas, and will act as your team for group projects.
+
+Each unit, squads will be reshuffled to allow developers to experience different perspectives and personalities in much the same way they will experience these in a development job.
+
+<!--10:00 5 minutes -->
 
 ## Schedule 
 
@@ -161,7 +167,7 @@ GitHub is a powerful tool, and we will be using it throughout the class.  One of
 
 #### Feedback on lessons and assignments
 
-Firstly, feedback on lessons and assignments is always appreciated.  If you see something that is confusing, or unclear, please submit a GitHub issue on the relevant repository with a detailed explanation.  Then send a Slack message to `#wdi3` with a link to the GitHub issue you created, and a tag for the relevant Instructor (``@zeb`` or ``@nick_anderson``).
+Firstly, feedback on lessons and assignments is always appreciated.  If you see something that is confusing, or unclear, please submit a GitHub issue on the relevant repository with a detailed explanation.  Then send a Slack message to `#wdi3` with a link to the GitHub issue you created.
 
 #### Request for help from Instructors
 
@@ -169,16 +175,6 @@ Firstly, feedback on lessons and assignments is always appreciated.  If you see 
  1. Two online resources the Developer found, but did not satisfy the need for help
  2. The name of one Developer whom you already asked
  3. A detailed description of the problem
-2. In order to request help from an Instructor, send a Slack message to `#wdi3` with a link to the GitHub issue you created, and a tag for the relevant Instructor (``@zeb`` or ``@nick.anderson``).
-
-### Instructor Availability
-
-Please address requests to the Instructor on duty at the time:
-
-- Zeb will field any requests in the `#wdi3` channel from 9am to 2pm.  
-- Nick will field any requests in the `#wdi3` channel from 2pm to 8pm. 
-
-The instructor mentioned will automatically get notified of any message tagged with ``@zeb`` or ``@nick.anderson``. 
 
 Putting content questions in the Slack channel has several benefits:
 - Other Developers might have the same question(s) and we can help everyone at the same time
@@ -189,10 +185,7 @@ Note that Instructors will not be available 24-7, but will do their best to answ
 
 ### The Help "Queue"
 
-If you would like 1:1 help from either of the Instructors, mention ``@zeb`` or ``@nick.anderson`` in the ``#wdi3`` channel, and we will set up appointments on a first-come, first-served basis.
-
-There are also a number of ways to work directly with the Instructors. We take **1:1 appointments** after class Monday 
-through Thursday (5pm and on). We might combine **1:1s** into a small group if several people approach with the same issue.
+If you would like 1:1 help from either of the Instructors, mention ``@zeb`` or ``@nick.anderson`` in the ``#wdi3`` channel, and we will set up appointments on a first-come, first-served basis.  We will take **1:1 appointments** outside of instructional time. Note that we might combine **1:1s** into a small group if several people approach with the same issue.
 
 ### Other Issues
 
@@ -200,7 +193,7 @@ Instructors can take direct messages for non-content related issues. Direct mess
 
 "No one is born knowing how to code." - Various
 
-<!-- 10:10 5 minutes -->
+<!-- 10:15 5 minutes -->
 
 ## Staying Healthy
 
@@ -216,7 +209,11 @@ This course will be a lot of work.  We will ask a lot of you, and we want to mak
 [comment]: <> (These things are important and if you can work through a good balance of these pieces and staying focused on the coursework, you'll make more progress than just trying to push through to get all the coursework done. Also help with your other Developers in recognizing when they might need to devote more time to these pieces)
 -->
 
-<!--10:15 5 minutes -->
+<!--10:20 5 minutes -->
+
+<!--This course will almost certainly not follow a pattern of any course you've taken in the past.  This course runs on failure, not perfection.  You will never be "done".  This is the way things work in a development job, so we're starting this on day one.  We understand this is hard, and Nick and I are here.  Please send either of us a message if you are feeling confused, frustrated, etc. about the class.
+
+You can think of us as personal trainers.  We are not here to kill you, but we are here to push you really hard.-->
 
 ## Assessments
 
@@ -228,7 +225,7 @@ Also, if the computer does what you want it to do, you've succeeded. This can be
 
 "If you want to run fast run alone, if you want to run long run together." - Keynan proverb.
 
-<!--10:20 10 miutes -->
+<!--10:25 10 miutes -->
 
 ## Work and Feedback
 
@@ -253,20 +250,13 @@ progress and help work through any issues.
 
 "You are not your code." - Multiple Quora Users
 
-<!--10:30 5 minutes -->
+<!--10:35 1 minute -->
 
 ### Team Name Choice
 
- - Today, we will choose a Developer Team name.  Since we will be pretty nerdy the next three months (we probably were already), the Instructors have been brainstorming on three themes.
- - Now, we will continue the brainstorming, and vote on our favorite name.
- - Theme 1: Comic Books
-  - e.g. Avengers, X-Men, Inhumans
- - Theme 2: Fantasy Books
-  - e.g. Ringwraiths, Hobbits, Elves
- - Theme 3: Video Games
-  - e.g. Orcs, Guardians, Koopas
+ - This week, we will choose a Developer Team name.  Start brainstorming name ideas with your fellow developers that capture the spirit of this cohort.
 
-<!--10:35 5 minutes -->
+<!--10:36 4 minutes -->
 
 ### Goals
  - Another thing we want to establish are growth goals for each student.  Take the next 5 minutes to come up with:
@@ -292,7 +282,7 @@ progress and help work through any issues.
 	- We try not to hold your hand
 		- There is a decent amount of failure that happens initially
 			- good to get that out of the way before starting work
-- Hard Work: 80-90hrs/wk minimum
+- Hard Work: More time than is comfortable every week till graduation
 - The maximum point of learning is right at the edge of learning and panic.
 ![learning zone](learning-zone.jpeg)
 - This experience is a rollercoaster.
