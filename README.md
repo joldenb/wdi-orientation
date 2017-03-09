@@ -121,7 +121,7 @@ Time  | Activity
 
 \* From 4:00pm to 5:00pm, the Instructors will be unavailable for questions or issues.
 
-Each module is usually a training section or a lab section. They'll run about 75 mintues each and then we'll have a 
+Each module is usually a training section or a lab section. They'll run about 75 minutes each and then we'll have a 
 quick break. If you need to step out of the room for a bathroom break or a phone call, feel free to during the class.
 
 The schedule above is a general guideline, but we will give a more accurate schedule at the beginning of every day.
