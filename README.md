@@ -13,7 +13,7 @@ Make sure everyone has a similar development environment and similar expectation
 - **Understand** the assessment structure of the course
 - **Verify** functionality of the development environment on your local machine
 
-<!-- 9:35 10 minutes -->
+<!-- 9:45 10 minutes -->
 
 ## WeWork
 
@@ -41,7 +41,7 @@ Parking is not easy around General Assembly and WeWork. The following options ar
 - If you are bringing guests to the space, please notify the front desk.
 - Unless there is a GA event, doors at WeWork lock at 6pm. Developers are welcome to stay during operating hours but if you leave, you will need a key card for re-entry.
 
-<!--9:45 15 minutes -->
+<!--9:55 15 minutes -->
 ## Class Expectations
 
 ### Graduation Requirements
@@ -107,7 +107,7 @@ Every unit, we will establish 'squads' - these small teams will contain 3-4 deve
 
 Each unit, squads will be reshuffled to allow developers to experience different perspectives and personalities in much the same way they will experience these in a development job.
 
-<!--10:00 5 minutes -->
+<!--10:10 5 minutes -->
 
 ## Schedule 
 
@@ -142,7 +142,7 @@ links for the specifc lesson plans by the beginning of the day.
 [cfu]: <> (Ask someone to repeat back in their own words. Fo5 comfort agree with schedule.)
 -->
 
-<!--10:00 10 minutes -->
+<!--10:15 10 minutes -->
 
 ## Communication
 
@@ -193,7 +193,7 @@ Instructors can take direct messages for non-content related issues. Direct mess
 
 "No one is born knowing how to code." - Various
 
-<!-- 10:15 5 minutes -->
+<!-- 10:25 5 minutes -->
 
 ## Staying Healthy
 
@@ -209,7 +209,7 @@ This course will be a lot of work.  We will ask a lot of you, and we want to mak
 [comment]: <> (These things are important and if you can work through a good balance of these pieces and staying focused on the coursework, you'll make more progress than just trying to push through to get all the coursework done. Also help with your other Developers in recognizing when they might need to devote more time to these pieces)
 -->
 
-<!--10:20 5 minutes -->
+<!--10:30 5 minutes -->
 
 <!--This course will almost certainly not follow a pattern of any course you've taken in the past.  This course runs on failure, not perfection.  You will never be "done".  This is the way things work in a development job, so we're starting this on day one.  We understand this is hard, and Nick and I are here.  Please send either of us a message if you are feeling confused, frustrated, etc. about the class.
 
@@ -225,7 +225,7 @@ Also, if the computer does what you want it to do, you've succeeded. This can be
 
 "If you want to run fast run alone, if you want to run long run together." - Keynan proverb.
 
-<!--10:25 10 miutes -->
+<!--10:35 10 miutes -->
 
 ## Work and Feedback
 
@@ -250,13 +250,13 @@ progress and help work through any issues.
 
 "You are not your code." - Multiple Quora Users
 
-<!--10:35 1 minute -->
+<!--10:45 1 minute -->
 
 ### Team Name Choice
 
  - This week, we will choose a Developer Team name.  Start brainstorming name ideas with your fellow developers that capture the spirit of this cohort.
 
-<!--10:36 4 minutes -->
+<!--10:46 4 minutes -->
 
 ### Goals
  - Another thing we want to establish are growth goals for each student.  Take the next 5 minutes to come up with:
@@ -266,6 +266,8 @@ progress and help work through any issues.
   - The Instructors will compile this into a goal list for the team this week, so that we can all help each other reach them by the end of the training.
 
 <!--These goals might be a good way to decide who goes on which "squad" for Unit 1 -->
+
+<!--10:50 5 minutes -->
 
 ## Final Thoughts
 - Programming is not about learning a sequence of steps, it's about developing a mindset to solve problems and think programmatically.
@@ -288,7 +290,7 @@ progress and help work through any issues.
 - This experience is a rollercoaster.
 ![informed optimism?](informed-optimism.jpeg)
 
-<!--10:40 -->
+<!--10:55 -->
 
 ## InstallFest Help
 
