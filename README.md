@@ -109,6 +109,7 @@ Every unit, we will establish 'squads' - these small teams will contain 3-4 deve
 
 Each unit, squads will be reshuffled to allow developers to experience different perspectives and personalities in much the same way they will experience these in a development job.
 
+<!--Actually 10:14-->
 <!--10:10 5 minutes -->
 
 ## Schedule 
@@ -144,6 +145,7 @@ links for the specifc lesson plans by the beginning of the day.
 [cfu]: <> (Ask someone to repeat back in their own words. Fo5 comfort agree with schedule.)
 -->
 
+<!--Actually 10:19 -->
 <!--10:15 10 minutes -->
 
 ## Communication
@@ -195,6 +197,7 @@ Instructors can take direct messages for non-content related issues. Direct mess
 
 "No one is born knowing how to code." - Various
 
+<!--Acutally 10:30 -->
 <!-- 10:25 5 minutes -->
 
 ## Staying Healthy
@@ -227,6 +230,7 @@ Also, if the computer does what you want it to do, you've succeeded. This can be
 
 "If you want to run fast run alone, if you want to run long run together." - Keynan proverb.
 
+<!--10:35 -->
 <!--10:35 10 miutes -->
 
 ## Work and Feedback
@@ -258,6 +262,7 @@ progress and help work through any issues.
 
  - This week, we will choose a Developer Team name.  Start brainstorming name ideas with your fellow developers that capture the spirit of this cohort.
 
+<!--Actually 10:47-->
 <!--10:46 4 minutes -->
 
 ### Goals
@@ -269,6 +274,7 @@ progress and help work through any issues.
 
 <!--These goals might be a good way to decide who goes on which "squad" for Unit 1 -->
 
+<!--Actually 10:58 goals take a while, maybe do "Final Thoughts" before "Goals" next time-->
 <!--10:50 5 minutes -->
 
 ## Final Thoughts
@@ -292,6 +298,7 @@ progress and help work through any issues.
 - This experience is a rollercoaster.
 ![informed optimism?](informed-optimism.jpeg)
 
+<!--Actually 11:08 at the end, no installFest help needed -->
 <!--10:55 -->
 
 ## InstallFest Help
