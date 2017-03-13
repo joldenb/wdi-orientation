@@ -13,6 +13,7 @@ Make sure everyone has a similar development environment and similar expectation
 - **Understand** the assessment structure of the course
 - **Verify** functionality of the development environment on your local machine
 
+<!--Actually 9:56 -->
 <!-- 9:45 10 minutes -->
 
 ## WeWork
@@ -41,12 +42,13 @@ Parking is not easy around General Assembly and WeWork. The following options ar
 - If you are bringing guests to the space, please notify the front desk.
 - Unless there is a GA event, doors at WeWork lock at 6pm. Developers are welcome to stay during operating hours but if you leave, you will need a key card for re-entry.
 
+<!--Actually 10:05-->
 <!--9:55 15 minutes -->
 ## Class Expectations
 
 ### Graduation Requirements
 
-- We will have an attendance sheet at the entrance of the classroom
+- We will send a Google Form to you every morning, afternoon, and evening
 - You are expected to sign in by **9:05am**, **1:35pm**, and **5:00pm** every day
 - No more than **3** unexcused absences 
 - **3** missed sign-ins = **1** absence
