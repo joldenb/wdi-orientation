@@ -93,7 +93,7 @@ Throughout the first week, we will be asking each Developer to find out one cool
 
 ### Shout Outs
 
-Another thing we want to stress is the **Shout Out**. Any time one of your squadmates gives you an "A-ha" moment, or knocks a lab out of the park, please share it with the rest of the class on the #wdi3 channel. It can be anything in the course, even if it's not related to the current topic, and can also be something we covered a few weeks ago.
+Another thing we want to stress is the **Shout Out**. Any time one of your squadmates gives you an "A-ha" moment, or knocks a lab out of the park, please share it with the rest of the class on the #wdi4 channel. It can be anything in the course, even if it's not related to the current topic, and can also be something we covered a few weeks ago.
 
 > "It's not at all important to get it right the first time. It's vitally important to get it right the last time." - Dave Thomas (Not the Wendy's Guy)
 
@@ -152,7 +152,7 @@ links for the specifc lesson plans by the beginning of the day.
 
 ### Slack
 
-Feel free to use ``#wdi3`` for any conversations outside of lectures for general course content questions. For any other discussion not related to the curriculum, you can use ``#random``.
+Feel free to use ``#wdi4`` for any conversations outside of lectures for general course content questions. For any other discussion not related to the curriculum, you can use ``#random`` or an appropriately named channel (e.g. `#upcoming-events` to pitch an upcoming event).
 
 ### Instructors Communication
 
@@ -171,7 +171,7 @@ GitHub is a powerful tool, and we will be using it throughout the class.  One of
 
 #### Feedback on lessons and assignments
 
-Firstly, feedback on lessons and assignments is always appreciated.  If you see something that is confusing, or unclear, please submit a GitHub issue on the relevant repository with a detailed explanation.  Then send a Slack message to `#wdi3` with a link to the GitHub issue you created.
+Firstly, feedback on lessons and assignments is always appreciated.  If you see something that is confusing, or unclear, please submit a GitHub issue on the relevant repository with a detailed explanation.  Then send a Slack message to `#wdi4` with a link to the GitHub issue you created.
 
 #### Request for help from Instructors
 
@@ -189,7 +189,7 @@ Note that Instructors will not be available 24-7, but will do their best to answ
 
 ### The Help "Queue"
 
-If you would like 1:1 help from either of the Instructors, mention ``@zeb`` or ``@nick.anderson`` in the ``#wdi3`` channel, and we will set up appointments on a first-come, first-served basis.  We will take **1:1 appointments** outside of instructional time. Note that we might combine **1:1s** into a small group if several people approach with the same issue.
+If you would like 1:1 help from either of the Instructors, mention ``@zeb`` or ``@nick.anderson`` in the ``#wdi4`` channel, and we will set up appointments on a first-come, first-served basis.  We will take **1:1 appointments** outside of instructional time. Note that we might combine **1:1s** into a small group if several people approach with the same issue.
 
 ### Other Issues
 
@@ -228,7 +228,7 @@ The best way to learn how to program is to program. Try things out. Make mistake
 
 Also, if the computer does what you want it to do, you've succeeded. This can be really confusing, but generally, "No news is good news," with a computer. If you are ever unsure of what's happening "under the hood", use the **Read-Search-Ask** policy. Your peers and the Instructors are here to help.
 
-"If you want to run fast run alone, if you want to run long run together." - Keynan proverb.
+"If you want to run fast run alone, if you want to run long run together." - Kenyan proverb.
 
 <!--10:35 -->
 <!--10:35 10 miutes -->
@@ -256,26 +256,21 @@ progress and help work through any issues.
 
 "You are not your code." - Multiple Quora Users
 
-<!--10:45 1 minute -->
-
-### Team Name Choice
-
- - This week, we will choose a Developer Team name.  Start brainstorming name ideas with your fellow developers that capture the spirit of this cohort.
-
 <!--Actually 10:47-->
-<!--10:46 4 minutes -->
+<!--10:45 10 minutes -->
 
 ### Goals
  - Another thing we want to establish are growth goals for each student.  Take the next 5 minutes to come up with:
   - One personal project goal that you would like to see built or be able to build by the end of this training.
   - One personal general goal that you would like to accomplish by the end of this training.
-  - Send those two goals to the #wdi3 channel.
+  - Save these two goals somewhere on your computer.
+  - Send those two goals to the #wdi4 channel.
   - The Instructors will compile this into a goal list for the team this week, so that we can all help each other reach them by the end of the training.
 
 <!--These goals might be a good way to decide who goes on which "squad" for Unit 1 -->
 
 <!--Actually 10:58 goals take a while, maybe do "Final Thoughts" before "Goals" next time-->
-<!--10:50 5 minutes -->
+<!--10:55 5 minutes -->
 
 ## Final Thoughts
 - Programming is not about learning a sequence of steps, it's about developing a mindset to solve problems and think programmatically.
