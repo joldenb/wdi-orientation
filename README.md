@@ -14,6 +14,7 @@ Make sure everyone has a similar development environment and similar expectation
 - **Verify** functionality of the development environment on your local machine
 
 <!--Actually 9:56 -->
+<!--10:00 WDI4 after cool thing share -->
 <!-- 9:45 10 minutes -->
 
 ## WeWork
@@ -43,6 +44,7 @@ Parking is not easy around General Assembly and WeWork. The following options ar
 - Unless there is a GA event, doors at WeWork lock at 6pm. Developers are welcome to stay during operating hours but if you leave, you will need a key card for re-entry.
 
 <!--Actually 10:05-->
+<!--10:09 WDI4 -->
 <!--9:55 15 minutes -->
 ## Class Expectations
 
@@ -110,6 +112,7 @@ Every unit, we will establish 'squads' - these small teams will contain 3-4 deve
 Each unit, squads will be reshuffled to allow developers to experience different perspectives and personalities in much the same way they will experience these in a development job.
 
 <!--Actually 10:14-->
+<!--10:20 WDI4 -->
 <!--10:10 5 minutes -->
 
 ## Schedule 
@@ -214,6 +217,7 @@ This course will be a lot of work.  We will ask a lot of you, and we want to mak
 [comment]: <> (These things are important and if you can work through a good balance of these pieces and staying focused on the coursework, you'll make more progress than just trying to push through to get all the coursework done. Also help with your other Developers in recognizing when they might need to devote more time to these pieces)
 -->
 
+<!--10:45 WDI4 -->
 <!--10:30 5 minutes -->
 
 <!--This course will almost certainly not follow a pattern of any course you've taken in the past.  This course runs on failure, not perfection.  You will never be "done".  This is the way things work in a development job, so we're starting this on day one.  We understand this is hard, and Nick and I are here.  Please send either of us a message if you are feeling confused, frustrated, etc. about the class.
@@ -231,6 +235,7 @@ Also, if the computer does what you want it to do, you've succeeded. This can be
 "If you want to run fast run alone, if you want to run long run together." - Kenyan proverb.
 
 <!--10:35 -->
+<!--10:53 WDI4 -->
 <!--10:35 10 miutes -->
 
 ## Work and Feedback
@@ -257,6 +262,7 @@ progress and help work through any issues.
 "You are not your code." - Multiple Quora Users
 
 <!--Actually 10:47-->
+<!--11:02 WDI4 -->
 <!--10:45 10 minutes -->
 
 ### Goals
@@ -269,6 +275,7 @@ progress and help work through any issues.
 
 <!--These goals might be a good way to decide who goes on which "squad" for Unit 1 -->
 
+<!--11:13 WDI4 -->
 <!--Actually 10:58 goals take a while, maybe do "Final Thoughts" before "Goals" next time-->
 <!--10:55 5 minutes -->
 
@@ -294,6 +301,7 @@ progress and help work through any issues.
 ![informed optimism?](informed-optimism.jpeg)
 
 <!--Actually 11:08 at the end, no installFest help needed -->
+<!--WDI4 11:20 at end, only installFest is for Marshall who did not get into slack org in time :( -->
 <!--10:55 -->
 
 ## InstallFest Help
