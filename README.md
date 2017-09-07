@@ -95,7 +95,7 @@ Throughout the first week, we will be asking each Developer to find out one cool
 
 ### Shout Outs
 
-Another thing we want to stress is the **Shout Out**. Any time one of your squadmates gives you an "A-ha" moment, or knocks a lab out of the park, please share it with the rest of the class on the #wdi4 channel. It can be anything in the course, even if it's not related to the current topic, and can also be something we covered a few weeks ago.
+Another thing we want to stress is the **Shout Out**. Any time one of your squadmates gives you an "A-ha" moment, or knocks a lab out of the park, please share it with the rest of the class on the #wdi5 channel. It can be anything in the course, even if it's not related to the current topic, and can also be something we covered a few weeks ago.
 
 > "It's not at all important to get it right the first time. It's vitally important to get it right the last time." - Dave Thomas (Not the Wendy's Guy)
 
@@ -117,7 +117,7 @@ Each unit, squads will be reshuffled to allow developers to experience different
 
 ## Schedule 
 
-The typical [schedule for the week](https://github.com/den-wdi-3/schedule/) is below:
+The typical [schedule for the week](https://github.com/den-wdi-5/schedule/) is below:
 
 #### Daily Schedule Overview
 
@@ -133,13 +133,15 @@ Time  | Activity
 
 \* From 4:00pm to 5:00pm, the Instructors will be unavailable for questions or issues.
 
+A TA will be available every Monday, Tuesday, Wednesday, and Thursday from 5pm to 8pm unless there is a holiday or special event.  Before asking the TA for help, please clarify your issue, using a GitHub issue (more on this later).
+
 Each module is usually a training section or a lab section. They'll run about 75 minutes each and then we'll have a 
 quick break. If you need to step out of the room for a bathroom break or a phone call, feel free to during the class.
 
 The schedule above is a general guideline, but we will give a more accurate schedule at the beginning of every day.
 
-We'll have a detailed schedule up for the next week by the end of the Friday of the week before. The schedule is 
-available on [GitHub](https://github.com/den-wdi-3/schedule). We'll fill in the 
+We'll have a detailed schedule up for the next week by the weekend before it. The schedule is 
+available on [GitHub](https://github.com/den-wdi-5/schedule). We'll fill in the 
 links for the specifc lesson plans by the beginning of the day. 
 
 <!--
@@ -155,7 +157,7 @@ links for the specifc lesson plans by the beginning of the day.
 
 ### Slack
 
-Feel free to use ``#wdi4`` for any conversations outside of lectures for general course content questions. For any other discussion not related to the curriculum, you can use ``#random`` or an appropriately named channel (e.g. `#upcoming-events` to pitch an upcoming event).
+Feel free to use ``#wdi5`` for any conversations outside of lectures for general course content questions. For any other discussion not related to the curriculum, you can use ``#random`` or an appropriately named channel (e.g. `#upcoming-events` to pitch an upcoming event).
 
 ### Instructors Communication
 
@@ -174,14 +176,11 @@ GitHub is a powerful tool, and we will be using it throughout the class.  One of
 
 #### Feedback on lessons and assignments
 
-Firstly, feedback on lessons and assignments is always appreciated.  If you see something that is confusing, or unclear, please submit a GitHub issue on the relevant repository with a detailed explanation.  Then send a Slack message to `#wdi4` with a link to the GitHub issue you created.
+Firstly, feedback on lessons and assignments is always appreciated.  If you see something that is confusing, or unclear, please submit a GitHub issue on the relevant repository with a detailed explanation.  Then send a Slack message to `#wdi5` with a link to the GitHub issue you created.
 
 #### Request for help from Instructors
 
-1. Secondly, any request for help from instructors should follow the **Read, Search, Ask** policy mentioned above. Specifically, to request help we are expecting a GitHub issue on the relevant repository with the following information:
- 1. Two online resources the Developer found, but did not satisfy the need for help
- 2. The name of one Developer whom you already asked
- 3. A detailed description of the problem
+1. Secondly, any request for help from instructors should follow the **Read, Search, Ask** policy mentioned above. Specifically, to request help we are expecting a GitHub issue on the relevant repository with a detailed description of the problem.  Before submitting this issue, make sure you have tried to "Google your way out", and ask a neighbor if there is one nearby.
 
 Putting content questions in the Slack channel has several benefits:
 - Other Developers might have the same question(s) and we can help everyone at the same time
@@ -192,7 +191,7 @@ Note that Instructors will not be available 24-7, but will do their best to answ
 
 ### The Help "Queue"
 
-If you would like 1:1 help from either of the Instructors, mention ``@zeb`` or ``@nick.anderson`` in the ``#wdi4`` channel, and we will set up appointments on a first-come, first-served basis.  We will take **1:1 appointments** outside of instructional time. Note that we might combine **1:1s** into a small group if several people approach with the same issue.
+If you would like 1:1 help from either of the Instructors, mention ``@zeb`` or ``@nick.anderson`` in the ``#wdi5`` channel, and we will set up appointments on a first-come, first-served basis.  We will take **1:1 appointments** outside of instructional time. Note that we might combine **1:1s** into a small group if several people approach with the same issue.
 
 ### Other Issues
 
@@ -244,7 +243,7 @@ Also, if the computer does what you want it to do, you've succeeded. This can be
 
 **Homework** will be reviewed every night. If you have specific questions around homework, follow the procedure for GitHub Issue submission above. Keep in mind, we've chosen to write the homeworks in a way that will make them a good future reference, and will challenge all students. Sometimes this may be more than you can accomplish in one night. If you're spending several hours on a homework and not making much progress, submit what you have done and move on to something else.  As mentioned earlier, sleep and well-being is important.
  
-**Submit homework** by 9am the following class day. We will be using [Schoology](https://www.schoology.com/) for our submissions. You should have received an invite to Schoology today. We will walk through submitting your first test assignment by the end of today.
+**Submit homework** by 9am the following class day. We will be using Google Sheets for our submissions. You should have received a link to your personal tracker on Slack from an instructor today. We will walk through submitting your first test assignment by the end of today.
 
 To re-iterate, **submit all of the homeworks**. Even if you don't make much progress on a homework, submit it, as that's important feedback on how we're doing as Instuctors and as a class.
 
@@ -270,7 +269,7 @@ progress and help work through any issues.
   - One personal project goal that you would like to see built or be able to build by the end of this training.
   - One personal general goal that you would like to accomplish by the end of this training.
   - Save these two goals somewhere on your computer.
-  - Send those two goals to the #wdi4 channel.
+  - Send those two goals to the #wdi5 channel.
   - The Instructors will compile this into a goal list for the team this week, so that we can all help each other reach them by the end of the training.
 
 <!--These goals might be a good way to decide who goes on which "squad" for Unit 1 -->
