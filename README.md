@@ -5,6 +5,8 @@
 ## Why is this important?
 Make sure everyone has a similar development environment and similar expectations around how the course will run.
 
+<!--WDI5 9:47 -->
+
 ## What are the objectives
 - **Understand** the protocol for the workspace
 - **List** some common checks for understanding
@@ -45,6 +47,7 @@ Parking is not easy around General Assembly and WeWork. The following options ar
 
 <!--Actually 10:05-->
 <!--10:09 WDI4 -->
+<!--WDI5 9:55 -->
 <!--9:55 15 minutes -->
 ## Class Expectations
 
@@ -111,6 +114,7 @@ Every unit, we will establish 'squads' - these small teams will contain 3-4 deve
 
 Each unit, squads will be reshuffled to allow developers to experience different perspectives and personalities in much the same way they will experience these in a development job.
 
+<!--WDI5 10:08 -->
 <!--Actually 10:14-->
 <!--10:20 WDI4 -->
 <!--10:10 5 minutes -->
@@ -151,6 +155,7 @@ links for the specifc lesson plans by the beginning of the day.
 -->
 
 <!--Actually 10:19 -->
+<!--WDI5 10:15-->
 <!--10:15 10 minutes -->
 
 ## Communication
@@ -233,9 +238,12 @@ Also, if the computer does what you want it to do, you've succeeded. This can be
 
 "If you want to run fast run alone, if you want to run long run together." - Kenyan proverb.
 
+<!--10:37 WDI5 -->
 <!--10:35 -->
 <!--10:53 WDI4 -->
 <!--10:35 10 miutes -->
+
+<!--WDI5 10:41 after stretch break -->
 
 ## Work and Feedback
 
@@ -260,6 +268,7 @@ progress and help work through any issues.
 
 "You are not your code." - Multiple Quora Users
 
+<!--10:49 WDI5 -->
 <!--Actually 10:47-->
 <!--11:02 WDI4 -->
 <!--10:45 10 minutes -->
@@ -274,6 +283,8 @@ progress and help work through any issues.
 
 <!--These goals might be a good way to decide who goes on which "squad" for Unit 1 -->
 
+
+<!--WDI5 10:58 -->
 <!--11:13 WDI4 -->
 <!--Actually 10:58 goals take a while, maybe do "Final Thoughts" before "Goals" next time-->
 <!--10:55 5 minutes -->
@@ -312,6 +323,8 @@ If any Developers need help with the installFest materials they received last we
 ** [Setup your Node Environment](https://github.com/den-materials/installFest/blob/master/express-stack.md)
 
 ** [Setup your PHP/Postgres Environment](https://github.com/den-materials/installFest/blob/master/php-and-postgres.md)
+
+<!--WDI5 11:12 -->
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
