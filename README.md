@@ -19,7 +19,7 @@ Make sure everyone has a similar development environment and similar expectation
 <!--10:00 WDI4 after cool thing share -->
 <!-- 9:45 10 minutes -->
 
-## WeWork
+## Industry
 
 ### WiFi
 
