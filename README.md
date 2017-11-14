@@ -23,27 +23,25 @@ Make sure everyone has a similar development environment and similar expectation
 
 ### WiFi
 
-Please use the WeWork Wifi network. The password is on the whiteboard.
+Please use the Industry-DESK network. The password is on the whiteboard.
 
 ### Parking
 
-Parking is not easy around General Assembly and WeWork. The following options are available:
+Parking is not easy around General Assembly and Industry, but is definitely possible. The following options are available:
 - If you can take public transit, bike, or walk to work, it will lower your stress levels significantly, and probably save you some money.
-- There is free parking across the highway, but long-term spots are, well, spotty.
-- We **highly** recommend downloading the SpotHero app.  It usually has a lot within 5-minutes walk of WeWork for $5-6 / day, but there are no guarantees.  You may end up spending as much as $10 / day.
-- You can also ask an attendant at the WeWork desk about the monthly park-and-shuttle option.
+- There is free parking in the residential areas around the office, but long-term spots are, well, spotty.
 
-### Using WeWork Space
+### Using Industry Space
 
-- There are a lot of businesses here at WeWork. Please be mindful of your neighbors, their space, and their things.
-- The water, coffee, tea, and kombucha are free. Drink as much as you want.
-- If you want to use an open conference room, please ask a WeWork staff member if the space is available.
-- The darts, ping-pong tables, and other communal spaces are also available. Again, just be mindful of your neighbors and share.
-- The food in the Honesty Market across from the bar is available for purchase. It's not free, but you can use your credit card to purchase things.
-- Similarly, if you see any food on the kitchen/cafe tables, please ask the WeWork staff if you can have some.  It may not be up for grabs.
-- You can use the fridge in the kitchen/cafe for drinks or food. Please put your name on anything, and the date you put it in. **WeWork will clean the fridge every Friday at 3pm**. If you see unclaimed food or drink in the fridge, please ask the WeWork staff if you can have some.
+- There are a lot of businesses here at Industry. Please be mindful of your neighbors, their space, and their things.
+- The water, coffee, and tea are free. Drink as much as you want, but if the container is empty, it is everyone's responsibility to help brew the next batch.
+- There is also beer available on tap here, but remember to **drink responsibly**, and **do not bring any alcohol into the classroom**.
+- When you are done with your dishes, put them in the dishwasher if possible, and put them in the sink if it's not possible.
+- If you want to use an open conference room, please ask an instructor if the space is available.  However, "break out rooms" at Industry are completely free and first-come, first-served.  Look for rooms that end in ".5", and you can meet in there anytime you want.
+- The ping-pong tables and other communal spaces are also available. Again, just be mindful of your neighbors and share.
+- You can use the fridge in the kitchen/cafe for drinks or food. Please put your name on anything, and the date you put it in. **Industry will clean the fridge every Friday afternoon**.
 - If you are bringing guests to the space, please notify the front desk.
-- Unless there is a GA event, doors at WeWork lock at 6pm. Developers are welcome to stay during operating hours but if you leave, you will need a key card for re-entry.
+- The front doors at Industry are only open during business hours. Side doors require a key fob for entry, as well as the front doors outside of business hours.  Make sure you **keep your keys with you at all times**.
 
 <!--Actually 10:05-->
 <!--10:09 WDI4 -->
@@ -98,7 +96,7 @@ Throughout the first week, we will be asking each Developer to find out one cool
 
 ### Shout Outs
 
-Another thing we want to stress is the **Shout Out**. Any time one of your squadmates gives you an "A-ha" moment, or knocks a lab out of the park, please share it with the rest of the class on the #wdi5 channel. It can be anything in the course, even if it's not related to the current topic, and can also be something we covered a few weeks ago.
+Another thing we want to stress is the **Shout Out**. Any time one of your squadmates gives you an "A-ha" moment, or knocks a lab out of the park, please share it with the rest of the class on the #wdi6 channel. It can be anything in the course, even if it's not related to the current topic, and can also be something we covered a few weeks ago.
 
 > "It's not at all important to get it right the first time. It's vitally important to get it right the last time." - Dave Thomas (Not the Wendy's Guy)
 
@@ -121,7 +119,7 @@ Each unit, squads will be reshuffled to allow developers to experience different
 
 ## Schedule 
 
-The typical [schedule for the week](https://github.com/den-wdi-5/schedule/) is below:
+The typical [schedule for the week](https://github.com/den-wdi-6/schedule/) is below:
 
 #### Daily Schedule Overview
 
@@ -137,7 +135,7 @@ Time  | Activity
 
 \* From 4:00pm to 5:00pm, the Instructors will be unavailable for questions or issues.
 
-A TA will be available every Monday, Tuesday, Wednesday, and Thursday from 5pm to 8pm unless there is a holiday or special event.  Before asking the TA for help, please clarify your issue, using a GitHub issue (more on this later).
+A TA will be available every Monday, Tuesday, Wednesday, and Thursday from 530pm to 830pm unless there is a holiday or special event. On Tuesday, Wednesday, and Thursday, another helper will be available from 5pm to 6pm.  Before asking the TA for help, please clarify your issue, using a GitHub issue (more on this later).
 
 Each module is usually a training section or a lab section. They'll run about 75 minutes each and then we'll have a 
 quick break. If you need to step out of the room for a bathroom break or a phone call, feel free to during the class.
@@ -145,8 +143,8 @@ quick break. If you need to step out of the room for a bathroom break or a phone
 The schedule above is a general guideline, but we will give a more accurate schedule at the beginning of every day.
 
 We'll have a detailed schedule up for the next week by the weekend before it. The schedule is 
-available on [GitHub](https://github.com/den-wdi-5/schedule). We'll fill in the 
-links for the specifc lesson plans by the beginning of the day. 
+available on [GitHub](https://github.com/den-wdi-6/schedule). We'll fill in the 
+links for the specific lesson plans by the beginning of the day. 
 
 <!--
 [comment]: <> (We're not putting the lesson plans up because we're going to be making tweaks as we go through the course. For example, if we're coming back to something that caused some confusion the first time we looked at, we're going to include some more review before the new material and we don't want to throw anyone off who looked at the material early.)
@@ -162,7 +160,7 @@ links for the specifc lesson plans by the beginning of the day.
 
 ### Slack
 
-Feel free to use ``#wdi5`` for any conversations outside of lectures for general course content questions. For any other discussion not related to the curriculum, you can use ``#random`` or an appropriately named channel (e.g. `#upcoming-events` to pitch an upcoming event).
+Feel free to use ``#wdi6`` for any conversations outside of lectures for general course content questions. For any other discussion not related to the curriculum, you can use ``#random`` or an appropriately named channel (e.g. `#upcoming-events` to pitch an upcoming event).
 
 ### Instructors Communication
 
@@ -181,7 +179,7 @@ GitHub is a powerful tool, and we will be using it throughout the class.  One of
 
 #### Feedback on lessons and assignments
 
-Firstly, feedback on lessons and assignments is always appreciated.  If you see something that is confusing, or unclear, please submit a GitHub issue on the relevant repository with a detailed explanation.  Then send a Slack message to `#wdi5` with a link to the GitHub issue you created.
+Firstly, feedback on lessons and assignments is always appreciated.  If you see something that is confusing, or unclear, please submit a GitHub issue on the relevant repository with a detailed explanation.  Then send a Slack message to `#wdi6` with a link to the GitHub issue you created.
 
 #### Request for help from Instructors
 
@@ -196,7 +194,7 @@ Note that Instructors will not be available 24-7, but will do their best to answ
 
 ### The Help "Queue"
 
-If you would like 1:1 help from either of the Instructors, mention ``@zeb`` or ``@nick.anderson`` in the ``#wdi5`` channel, and we will set up appointments on a first-come, first-served basis.  We will take **1:1 appointments** outside of instructional time. Note that we might combine **1:1s** into a small group if several people approach with the same issue.
+If you would like 1:1 help from either of the Instructors, mention ``@zeb`` or ``@Joe Oldenburg`` in the ``#wdi6`` channel, and we will set up appointments on a first-come, first-served basis.  We will take **1:1 appointments** outside of instructional time. Note that we might combine **1:1s** into a small group if several people approach with the same issue.
 
 ### Other Issues
 
@@ -224,7 +222,7 @@ This course will be a lot of work.  We will ask a lot of you, and we want to mak
 <!--10:45 WDI4 -->
 <!--10:30 5 minutes -->
 
-<!--This course will almost certainly not follow a pattern of any course you've taken in the past.  This course runs on failure, not perfection.  You will never be "done".  This is the way things work in a development job, so we're starting this on day one.  We understand this is hard, and Nick and I are here.  Please send either of us a message if you are feeling confused, frustrated, etc. about the class.
+<!--This course will almost certainly not follow a pattern of any course you've taken in the past.  This course runs on failure, not perfection.  You will never be "done".  This is the way things work in a development job, so we're starting this on day one.  We understand this is hard, and Joe and I are here.  Please send either of us a message if you are feeling confused, frustrated, etc. about the class.
 
 You can think of us as personal trainers.  We are not here to kill you, but we are here to push you really hard.-->
 
@@ -278,7 +276,7 @@ progress and help work through any issues.
   - One personal project goal that you would like to see built or be able to build by the end of this training.
   - One personal general goal that you would like to accomplish by the end of this training.
   - Save these two goals somewhere on your computer.
-  - Send those two goals to the #wdi5 channel.
+  - Send those two goals to the #wdi6 channel.
   - The Instructors will compile this into a goal list for the team this week, so that we can all help each other reach them by the end of the training.
 
 <!--These goals might be a good way to decide who goes on which "squad" for Unit 1 -->
